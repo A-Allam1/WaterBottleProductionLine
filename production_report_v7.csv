@@ -1,0 +1,2026 @@
+Time,Bottle ID,Result,Stage,Reason
+18:59:51,1,REWORKED,Label QC,Missing Label
+18:59:54,1,SHIPPED,Shipped,Success
+19:00:01,2,SHIPPED,Shipped,Success
+19:00:03,3,REWORKED,Fill QC,Overfilled Bottle
+19:00:09,3,SHIPPED,Shipped,Success
+19:00:12,4,REWORKED,Cap QC,Missing Cap
+19:00:15,4,REWORKED,Label QC,Crooked Label
+19:00:18,4,SHIPPED,Shipped,Success
+19:00:24,5,SHIPPED,Shipped,Success
+19:00:31,6,SHIPPED,Shipped,Success
+19:00:38,7,SHIPPED,Shipped,Success
+19:00:45,8,SHIPPED,Shipped,Success
+19:00:52,9,SHIPPED,Shipped,Success
+19:00:57,10,REJECTED,Final QC,Contamination
+19:01:04,11,SHIPPED,Shipped,Success
+19:01:10,12,REJECTED,Final QC,Contamination
+19:01:11,13,REWORKED,Bottle QC,Deformed Bottle
+19:01:12,13,REWORKED,Bottle QC,Deformed Bottle
+19:01:15,13,REWORKED,Fill QC,Overfilled Bottle
+19:01:20,13,SHIPPED,Shipped,Success
+19:01:26,14,REJECTED,Final QC,Overall Product Failure
+19:01:33,15,SHIPPED,Shipped,Success
+19:01:35,16,REWORKED,Fill QC,Underfilled Bottle
+19:01:41,16,SHIPPED,Shipped,Success
+19:01:48,17,SHIPPED,Shipped,Success
+19:01:54,18,SHIPPED,Shipped,Success
+19:02:01,19,SHIPPED,Shipped,Success
+19:02:08,20,SHIPPED,Shipped,Success
+19:02:12,21,REWORKED,Cap QC,Loose Cap
+19:02:16,21,SHIPPED,Shipped,Success
+19:02:23,22,SHIPPED,Shipped,Success
+19:02:28,23,REJECTED,Final QC,Contamination
+19:02:34,24,REJECTED,Final QC,Overall Product Failure
+19:02:37,25,REWORKED,Fill QC,Overfilled Bottle
+19:02:42,25,SHIPPED,Shipped,Success
+19:02:47,26,REWORKED,Label QC,Missing Label
+19:02:50,26,SHIPPED,Shipped,Success
+19:02:57,27,SHIPPED,Shipped,Success
+19:03:02,28,REWORKED,Label QC,Crooked Label
+19:03:05,28,SHIPPED,Shipped,Success
+19:03:12,29,SHIPPED,Shipped,Success
+19:03:19,30,SHIPPED,Shipped,Success
+19:03:21,31,REWORKED,Fill QC,Underfilled Bottle
+19:03:23,31,REWORKED,Fill QC,Overfilled Bottle
+19:03:28,31,SHIPPED,Shipped,Success
+19:03:35,32,SHIPPED,Shipped,Success
+19:03:42,33,SHIPPED,Shipped,Success
+19:03:43,34,REWORKED,Bottle QC,Deformed Bottle
+19:03:50,34,SHIPPED,Shipped,Success
+19:03:56,35,SHIPPED,Shipped,Success
+19:04:03,36,SHIPPED,Shipped,Success
+19:04:10,37,SHIPPED,Shipped,Success
+19:04:17,38,SHIPPED,Shipped,Success
+19:04:22,39,REWORKED,Label QC,Crooked Label
+19:04:25,39,SHIPPED,Shipped,Success
+19:04:32,40,SHIPPED,Shipped,Success
+19:04:37,41,REWORKED,Label QC,Missing Label
+19:04:40,41,SHIPPED,Shipped,Success
+19:04:42,42,REWORKED,Fill QC,Overfilled Bottle
+19:04:48,42,SHIPPED,Shipped,Success
+19:04:55,43,SHIPPED,Shipped,Success
+19:05:01,44,SHIPPED,Shipped,Success
+19:05:08,45,SHIPPED,Shipped,Success
+19:05:11,46,REWORKED,Fill QC,Underfilled Bottle
+19:05:16,46,SHIPPED,Shipped,Success
+19:05:23,47,SHIPPED,Shipped,Success
+19:05:24,48,REWORKED,Bottle QC,Cracked Bottle
+19:05:31,48,SHIPPED,Shipped,Success
+19:05:38,49,SHIPPED,Shipped,Success
+19:05:39,50,REWORKED,Bottle QC,Cracked Bottle
+19:05:46,50,SHIPPED,Shipped,Success
+19:05:53,51,SHIPPED,Shipped,Success
+19:05:59,52,SHIPPED,Shipped,Success
+19:06:06,53,SHIPPED,Shipped,Success
+19:06:13,54,SHIPPED,Shipped,Success
+19:06:16,55,REWORKED,Fill QC,Overfilled Bottle
+19:06:19,55,REWORKED,Label QC,Missing Label
+19:06:22,55,SHIPPED,Shipped,Success
+19:06:29,56,SHIPPED,Shipped,Success
+19:06:36,57,SHIPPED,Shipped,Success
+19:06:40,58,REWORKED,Cap QC,Missing Cap
+19:06:43,58,REJECTED,Final QC,Overall Product Failure
+19:06:47,59,REWORKED,Cap QC,Loose Cap
+19:06:50,59,REJECTED,Final QC,Overall Product Failure
+19:06:57,60,SHIPPED,Shipped,Success
+19:07:02,61,REJECTED,Final QC,Overall Product Failure
+19:07:10,62,SHIPPED,Shipped,Success
+19:07:16,63,SHIPPED,Shipped,Success
+19:07:23,64,SHIPPED,Shipped,Success
+19:07:26,65,REWORKED,Fill QC,Overfilled Bottle
+19:07:31,65,SHIPPED,Shipped,Success
+19:07:38,66,SHIPPED,Shipped,Success
+19:07:45,67,SHIPPED,Shipped,Success
+19:07:52,68,SHIPPED,Shipped,Success
+19:07:54,69,REWORKED,Fill QC,Overfilled Bottle
+19:08:00,69,SHIPPED,Shipped,Success
+19:08:05,70,REJECTED,Final QC,Overall Product Failure
+19:08:11,71,REWORKED,Label QC,Missing Label
+19:08:14,71,SHIPPED,Shipped,Success
+19:08:19,72,REWORKED,Label QC,Crooked Label
+19:08:22,72,SHIPPED,Shipped,Success
+19:08:28,73,SHIPPED,Shipped,Success
+19:08:35,74,SHIPPED,Shipped,Success
+19:08:38,75,REWORKED,Fill QC,Underfilled Bottle
+19:08:43,75,SHIPPED,Shipped,Success
+19:08:47,76,REWORKED,Cap QC,Missing Cap
+19:08:51,76,SHIPPED,Shipped,Success
+19:08:53,77,REWORKED,Bottle QC,Deformed Bottle
+19:08:59,77,SHIPPED,Shipped,Success
+19:09:06,78,SHIPPED,Shipped,Success
+19:09:13,79,SHIPPED,Shipped,Success
+19:09:20,80,SHIPPED,Shipped,Success
+19:09:24,81,REWORKED,Cap QC,Missing Cap
+19:09:28,81,SHIPPED,Shipped,Success
+19:09:35,82,SHIPPED,Shipped,Success
+19:09:42,83,SHIPPED,Shipped,Success
+19:09:49,84,SHIPPED,Shipped,Success
+19:09:54,85,REJECTED,Final QC,Contamination
+19:10:00,86,REWORKED,Label QC,Missing Label
+19:10:02,86,SHIPPED,Shipped,Success
+19:10:09,87,SHIPPED,Shipped,Success
+19:10:16,88,SHIPPED,Shipped,Success
+19:10:23,89,SHIPPED,Shipped,Success
+19:10:30,90,SHIPPED,Shipped,Success
+19:10:35,91,REWORKED,Label QC,Crooked Label
+19:10:38,91,SHIPPED,Shipped,Success
+19:10:42,92,REWORKED,Cap QC,Loose Cap
+19:10:46,92,SHIPPED,Shipped,Success
+19:10:53,93,SHIPPED,Shipped,Success
+19:10:57,94,REWORKED,Cap QC,Missing Cap
+19:11:01,94,SHIPPED,Shipped,Success
+19:11:07,95,REJECTED,Final QC,Contamination
+19:11:09,96,REWORKED,Fill QC,Underfilled Bottle
+19:11:15,96,SHIPPED,Shipped,Success
+19:11:19,97,REWORKED,Cap QC,Loose Cap
+19:11:23,97,SHIPPED,Shipped,Success
+19:11:30,98,SHIPPED,Shipped,Success
+19:11:37,99,SHIPPED,Shipped,Success
+19:11:44,100,SHIPPED,Shipped,Success
+19:11:47,101,REWORKED,Cap QC,Loose Cap
+19:11:52,101,SHIPPED,Shipped,Success
+19:11:58,102,SHIPPED,Shipped,Success
+19:12:05,103,SHIPPED,Shipped,Success
+19:12:12,104,SHIPPED,Shipped,Success
+19:12:19,105,SHIPPED,Shipped,Success
+19:12:26,106,SHIPPED,Shipped,Success
+19:12:33,107,SHIPPED,Shipped,Success
+19:12:38,108,REWORKED,Label QC,Missing Label
+19:12:41,108,SHIPPED,Shipped,Success
+19:12:48,109,SHIPPED,Shipped,Success
+19:12:55,110,SHIPPED,Shipped,Success
+19:13:01,111,SHIPPED,Shipped,Success
+19:13:08,112,SHIPPED,Shipped,Success
+19:13:15,113,SHIPPED,Shipped,Success
+19:13:22,114,SHIPPED,Shipped,Success
+19:13:28,115,REJECTED,Final QC,Overall Product Failure
+19:13:35,116,SHIPPED,Shipped,Success
+19:13:37,117,REWORKED,Fill QC,Underfilled Bottle
+19:13:43,117,SHIPPED,Shipped,Success
+19:13:50,118,SHIPPED,Shipped,Success
+19:13:56,119,SHIPPED,Shipped,Success
+19:14:03,120,SHIPPED,Shipped,Success
+19:14:10,121,SHIPPED,Shipped,Success
+19:14:14,122,REWORKED,Cap QC,Missing Cap
+19:14:18,122,SHIPPED,Shipped,Success
+19:14:21,123,REWORKED,Fill QC,Overfilled Bottle
+19:14:26,123,SHIPPED,Shipped,Success
+19:14:29,124,REWORKED,Fill QC,Overfilled Bottle
+19:14:31,124,REWORKED,Cap QC,Loose Cap
+19:14:35,124,SHIPPED,Shipped,Success
+19:14:42,125,SHIPPED,Shipped,Success
+19:14:48,126,REJECTED,Final QC,Overall Product Failure
+19:14:55,127,SHIPPED,Shipped,Success
+19:15:02,128,SHIPPED,Shipped,Success
+19:15:08,129,REJECTED,Final QC,Contamination
+19:15:09,130,REWORKED,Bottle QC,Deformed Bottle
+19:15:16,130,SHIPPED,Shipped,Success
+19:15:21,131,REWORKED,Label QC,Crooked Label
+19:15:22,131,REJECTED,Final QC,Overall Product Failure
+19:15:30,132,SHIPPED,Shipped,Success
+19:15:36,133,SHIPPED,Shipped,Success
+19:15:38,134,REWORKED,Bottle QC,Cracked Bottle
+19:15:44,134,SHIPPED,Shipped,Success
+19:15:50,135,REJECTED,Final QC,Contamination
+19:15:57,136,SHIPPED,Shipped,Success
+19:16:00,137,REWORKED,Fill QC,Underfilled Bottle
+19:16:05,137,SHIPPED,Shipped,Success
+19:16:09,138,REWORKED,Cap QC,Loose Cap
+19:16:13,138,SHIPPED,Shipped,Success
+19:16:16,139,REWORKED,Fill QC,Underfilled Bottle
+19:16:21,139,SHIPPED,Shipped,Success
+19:16:28,140,SHIPPED,Shipped,Success
+19:16:33,141,REWORKED,Label QC,Missing Label
+19:16:34,141,REWORKED,Label QC,Crooked Label
+19:16:37,141,SHIPPED,Shipped,Success
+19:16:44,142,SHIPPED,Shipped,Success
+19:16:47,143,REWORKED,Fill QC,Overfilled Bottle
+19:16:52,143,SHIPPED,Shipped,Success
+19:16:58,144,REJECTED,Final QC,Contamination
+19:17:05,145,SHIPPED,Shipped,Success
+19:17:06,146,REWORKED,Bottle QC,Deformed Bottle
+19:17:13,146,SHIPPED,Shipped,Success
+19:17:18,147,REWORKED,Label QC,Crooked Label
+19:17:21,147,SHIPPED,Shipped,Success
+19:17:28,148,SHIPPED,Shipped,Success
+19:17:33,149,REJECTED,Final QC,Overall Product Failure
+19:17:41,150,SHIPPED,Shipped,Success
+19:17:47,151,SHIPPED,Shipped,Success
+19:17:49,152,REWORKED,Bottle QC,Cracked Bottle
+19:17:55,152,SHIPPED,Shipped,Success
+19:18:02,153,SHIPPED,Shipped,Success
+19:18:08,154,REJECTED,Final QC,Overall Product Failure
+19:18:15,155,SHIPPED,Shipped,Success
+19:18:22,156,SHIPPED,Shipped,Success
+19:18:29,157,SHIPPED,Shipped,Success
+19:18:30,158,REWORKED,Bottle QC,Cracked Bottle
+19:18:37,158,SHIPPED,Shipped,Success
+19:18:44,159,SHIPPED,Shipped,Success
+19:18:49,160,REWORKED,Label QC,Crooked Label
+19:18:50,160,REWORKED,Label QC,Missing Label
+19:18:53,160,SHIPPED,Shipped,Success
+19:18:55,161,REWORKED,Fill QC,Overfilled Bottle
+19:19:00,161,REJECTED,Final QC,Contamination
+19:19:07,162,SHIPPED,Shipped,Success
+19:19:09,163,REWORKED,Fill QC,Overfilled Bottle
+19:19:15,163,SHIPPED,Shipped,Success
+19:19:21,164,SHIPPED,Shipped,Success
+19:19:28,165,SHIPPED,Shipped,Success
+19:19:31,166,REWORKED,Fill QC,Underfilled Bottle
+19:19:32,166,REWORKED,Fill QC,Underfilled Bottle
+19:19:37,166,SHIPPED,Shipped,Success
+19:19:40,167,REWORKED,Fill QC,Overfilled Bottle
+19:19:41,167,REWORKED,Fill QC,Underfilled Bottle
+19:19:47,167,SHIPPED,Shipped,Success
+19:19:54,168,SHIPPED,Shipped,Success
+19:20:01,169,SHIPPED,Shipped,Success
+19:20:07,170,SHIPPED,Shipped,Success
+19:20:14,171,SHIPPED,Shipped,Success
+19:20:17,172,REWORKED,Fill QC,Overfilled Bottle
+19:20:22,172,SHIPPED,Shipped,Success
+19:20:29,173,SHIPPED,Shipped,Success
+19:20:33,174,REWORKED,Cap QC,Missing Cap
+19:20:37,174,SHIPPED,Shipped,Success
+19:20:44,175,SHIPPED,Shipped,Success
+19:20:45,176,REWORKED,Bottle QC,Cracked Bottle
+19:20:52,176,SHIPPED,Shipped,Success
+19:20:59,177,SHIPPED,Shipped,Success
+19:21:04,178,REWORKED,Label QC,Missing Label
+19:21:07,178,SHIPPED,Shipped,Success
+19:21:14,179,SHIPPED,Shipped,Success
+19:21:21,180,SHIPPED,Shipped,Success
+19:21:28,181,SHIPPED,Shipped,Success
+19:21:35,182,SHIPPED,Shipped,Success
+19:21:37,183,REWORKED,Fill QC,Overfilled Bottle
+19:21:43,183,SHIPPED,Shipped,Success
+19:21:49,184,SHIPPED,Shipped,Success
+19:21:56,185,SHIPPED,Shipped,Success
+19:22:03,186,SHIPPED,Shipped,Success
+19:22:10,187,SHIPPED,Shipped,Success
+19:22:13,188,REWORKED,Fill QC,Underfilled Bottle
+19:22:16,188,REWORKED,Label QC,Missing Label
+19:22:19,188,SHIPPED,Shipped,Success
+19:22:26,189,SHIPPED,Shipped,Success
+19:22:33,190,SHIPPED,Shipped,Success
+19:22:40,191,SHIPPED,Shipped,Success
+19:22:47,192,SHIPPED,Shipped,Success
+19:22:50,193,REWORKED,Fill QC,Underfilled Bottle
+19:22:53,193,REWORKED,Label QC,Missing Label
+19:22:56,193,SHIPPED,Shipped,Success
+19:22:58,194,REWORKED,Bottle QC,Deformed Bottle
+19:23:04,194,SHIPPED,Shipped,Success
+19:23:11,195,SHIPPED,Shipped,Success
+19:23:12,196,REWORKED,Bottle QC,Deformed Bottle
+19:23:19,196,SHIPPED,Shipped,Success
+19:23:26,197,SHIPPED,Shipped,Success
+19:23:30,198,REWORKED,Cap QC,Missing Cap
+19:23:32,198,REWORKED,Label QC,Missing Label
+19:23:35,198,SHIPPED,Shipped,Success
+19:23:42,199,SHIPPED,Shipped,Success
+19:23:49,200,SHIPPED,Shipped,Success
+19:23:56,201,SHIPPED,Shipped,Success
+19:23:59,202,REWORKED,Fill QC,Overfilled Bottle
+19:24:04,202,SHIPPED,Shipped,Success
+19:24:11,203,SHIPPED,Shipped,Success
+19:24:15,204,REWORKED,Cap QC,Missing Cap
+19:24:18,204,REJECTED,Final QC,Overall Product Failure
+19:24:23,205,REWORKED,Label QC,Missing Label
+19:24:26,205,SHIPPED,Shipped,Success
+19:24:33,206,SHIPPED,Shipped,Success
+19:24:38,207,REJECTED,Final QC,Contamination
+19:24:46,208,SHIPPED,Shipped,Success
+19:24:52,209,SHIPPED,Shipped,Success
+19:24:59,210,SHIPPED,Shipped,Success
+19:25:05,211,REJECTED,Final QC,Overall Product Failure
+19:25:08,212,REWORKED,Fill QC,Underfilled Bottle
+19:25:13,212,SHIPPED,Shipped,Success
+19:25:18,213,REWORKED,Label QC,Crooked Label
+19:25:21,213,SHIPPED,Shipped,Success
+19:25:28,214,SHIPPED,Shipped,Success
+19:25:35,215,SHIPPED,Shipped,Success
+19:25:42,216,SHIPPED,Shipped,Success
+19:25:48,217,REJECTED,Final QC,Contamination
+19:25:55,218,SHIPPED,Shipped,Success
+19:26:02,219,SHIPPED,Shipped,Success
+19:26:05,220,REWORKED,Cap QC,Loose Cap
+19:26:10,220,SHIPPED,Shipped,Success
+19:26:11,221,REWORKED,Bottle QC,Deformed Bottle
+19:26:18,221,SHIPPED,Shipped,Success
+19:26:24,222,SHIPPED,Shipped,Success
+19:26:26,223,REWORKED,Bottle QC,Deformed Bottle
+19:26:33,223,SHIPPED,Shipped,Success
+19:26:39,224,SHIPPED,Shipped,Success
+19:26:41,225,REWORKED,Bottle QC,Deformed Bottle
+19:26:48,225,SHIPPED,Shipped,Success
+19:26:54,226,SHIPPED,Shipped,Success
+19:27:01,227,SHIPPED,Shipped,Success
+19:27:08,228,SHIPPED,Shipped,Success
+19:27:11,229,REWORKED,Fill QC,Underfilled Bottle
+19:27:14,229,REWORKED,Label QC,Crooked Label
+19:27:17,229,SHIPPED,Shipped,Success
+19:27:23,230,REJECTED,Final QC,Overall Product Failure
+19:27:29,231,REJECTED,Final QC,Contamination
+19:27:34,232,REWORKED,Label QC,Missing Label
+19:27:37,232,SHIPPED,Shipped,Success
+19:27:41,233,REWORKED,Cap QC,Missing Cap
+19:27:44,233,REJECTED,Final QC,Contamination
+19:27:51,234,SHIPPED,Shipped,Success
+19:27:58,235,SHIPPED,Shipped,Success
+19:28:03,236,REWORKED,Label QC,Crooked Label
+19:28:06,236,SHIPPED,Shipped,Success
+19:28:13,237,SHIPPED,Shipped,Success
+19:28:18,238,REWORKED,Label QC,Missing Label
+19:28:21,238,SHIPPED,Shipped,Success
+19:28:28,239,SHIPPED,Shipped,Success
+19:28:35,240,SHIPPED,Shipped,Success
+19:28:42,241,SHIPPED,Shipped,Success
+19:28:49,242,SHIPPED,Shipped,Success
+19:28:51,243,REWORKED,Fill QC,Overfilled Bottle
+19:28:57,243,SHIPPED,Shipped,Success
+19:29:04,244,SHIPPED,Shipped,Success
+19:29:11,245,SHIPPED,Shipped,Success
+19:29:18,246,SHIPPED,Shipped,Success
+19:29:25,247,SHIPPED,Shipped,Success
+19:29:28,248,REWORKED,Cap QC,Missing Cap
+19:29:33,248,SHIPPED,Shipped,Success
+19:29:35,249,REWORKED,Fill QC,Overfilled Bottle
+19:29:41,249,SHIPPED,Shipped,Success
+19:29:46,250,REWORKED,Label QC,Crooked Label
+19:29:49,250,SHIPPED,Shipped,Success
+19:29:50,251,REWORKED,Bottle QC,Deformed Bottle
+19:29:55,251,REWORKED,Label QC,Crooked Label
+19:29:58,251,SHIPPED,Shipped,Success
+19:30:05,252,SHIPPED,Shipped,Success
+19:30:09,253,REWORKED,Cap QC,Loose Cap
+19:30:13,253,SHIPPED,Shipped,Success
+19:30:20,254,SHIPPED,Shipped,Success
+19:30:22,255,REWORKED,Fill QC,Underfilled Bottle
+19:30:28,255,SHIPPED,Shipped,Success
+19:30:35,256,SHIPPED,Shipped,Success
+19:30:42,257,SHIPPED,Shipped,Success
+19:30:47,258,REWORKED,Label QC,Missing Label
+19:30:50,258,SHIPPED,Shipped,Success
+19:30:54,259,REWORKED,Cap QC,Loose Cap
+19:30:58,259,SHIPPED,Shipped,Success
+19:31:05,260,SHIPPED,Shipped,Success
+19:31:12,261,SHIPPED,Shipped,Success
+19:31:19,262,SHIPPED,Shipped,Success
+19:31:26,263,SHIPPED,Shipped,Success
+19:31:28,264,REWORKED,Fill QC,Overfilled Bottle
+19:31:34,264,SHIPPED,Shipped,Success
+19:31:39,265,REJECTED,Final QC,Contamination
+19:31:41,266,REWORKED,Bottle QC,Cracked Bottle
+19:31:47,266,SHIPPED,Shipped,Success
+19:31:49,267,REWORKED,Bottle QC,Deformed Bottle
+19:31:54,267,REJECTED,Final QC,Overall Product Failure
+19:31:56,268,REWORKED,Bottle QC,Deformed Bottle
+19:32:02,268,SHIPPED,Shipped,Success
+19:32:09,269,SHIPPED,Shipped,Success
+19:32:16,270,SHIPPED,Shipped,Success
+19:32:23,271,SHIPPED,Shipped,Success
+19:32:29,272,REJECTED,Final QC,Contamination
+19:32:36,273,SHIPPED,Shipped,Success
+19:32:39,274,REWORKED,Fill QC,Underfilled Bottle
+19:32:44,274,SHIPPED,Shipped,Success
+19:32:49,275,REWORKED,Label QC,Crooked Label
+19:32:52,275,SHIPPED,Shipped,Success
+19:32:59,276,SHIPPED,Shipped,Success
+19:33:02,277,REWORKED,Fill QC,Underfilled Bottle
+19:33:03,277,REWORKED,Fill QC,Overfilled Bottle
+19:33:08,277,SHIPPED,Shipped,Success
+19:33:15,278,SHIPPED,Shipped,Success
+19:33:22,279,SHIPPED,Shipped,Success
+19:33:29,280,SHIPPED,Shipped,Success
+19:33:34,281,REWORKED,Label QC,Missing Label
+19:33:37,281,SHIPPED,Shipped,Success
+19:33:44,282,SHIPPED,Shipped,Success
+19:33:51,283,SHIPPED,Shipped,Success
+19:33:58,284,SHIPPED,Shipped,Success
+19:34:05,285,SHIPPED,Shipped,Success
+19:34:12,286,SHIPPED,Shipped,Success
+19:34:19,287,SHIPPED,Shipped,Success
+19:34:25,288,REJECTED,Final QC,Contamination
+19:34:27,289,REWORKED,Fill QC,Underfilled Bottle
+19:34:33,289,SHIPPED,Shipped,Success
+19:34:40,290,SHIPPED,Shipped,Success
+19:34:41,291,REWORKED,Bottle QC,Cracked Bottle
+19:34:43,291,REWORKED,Fill QC,Underfilled Bottle
+19:34:49,291,SHIPPED,Shipped,Success
+19:34:50,292,REWORKED,Bottle QC,Cracked Bottle
+19:34:57,292,SHIPPED,Shipped,Success
+19:35:04,293,SHIPPED,Shipped,Success
+19:35:11,294,SHIPPED,Shipped,Success
+19:35:18,295,SHIPPED,Shipped,Success
+19:35:25,296,SHIPPED,Shipped,Success
+19:35:32,297,SHIPPED,Shipped,Success
+19:35:37,298,REJECTED,Final QC,Overall Product Failure
+19:35:43,299,REJECTED,Final QC,Overall Product Failure
+19:35:46,300,REWORKED,Fill QC,Overfilled Bottle
+19:35:47,300,REWORKED,Fill QC,Underfilled Bottle
+19:35:53,300,SHIPPED,Shipped,Success
+19:35:56,301,REWORKED,Cap QC,Missing Cap
+19:36:01,301,SHIPPED,Shipped,Success
+19:36:06,302,REWORKED,Label QC,Missing Label
+19:36:09,302,SHIPPED,Shipped,Success
+19:36:16,303,SHIPPED,Shipped,Success
+19:36:23,304,SHIPPED,Shipped,Success
+19:36:29,305,SHIPPED,Shipped,Success
+19:36:31,306,REWORKED,Bottle QC,Cracked Bottle
+19:36:34,306,REWORKED,Cap QC,Missing Cap
+19:36:39,306,SHIPPED,Shipped,Success
+19:36:40,307,REWORKED,Bottle QC,Cracked Bottle
+19:36:42,307,REWORKED,Fill QC,Underfilled Bottle
+19:36:48,307,SHIPPED,Shipped,Success
+19:36:55,308,SHIPPED,Shipped,Success
+19:36:58,309,REWORKED,Cap QC,Missing Cap
+19:37:03,309,SHIPPED,Shipped,Success
+19:37:10,310,SHIPPED,Shipped,Success
+19:37:17,311,SHIPPED,Shipped,Success
+19:37:22,312,REWORKED,Label QC,Missing Label
+19:37:25,312,SHIPPED,Shipped,Success
+19:37:32,313,SHIPPED,Shipped,Success
+19:37:35,314,REWORKED,Cap QC,Missing Cap
+19:37:40,314,SHIPPED,Shipped,Success
+19:37:46,315,SHIPPED,Shipped,Success
+19:37:53,316,SHIPPED,Shipped,Success
+19:38:00,317,SHIPPED,Shipped,Success
+19:38:07,318,SHIPPED,Shipped,Success
+19:38:09,319,REWORKED,Bottle QC,Cracked Bottle
+19:38:15,319,SHIPPED,Shipped,Success
+19:38:22,320,SHIPPED,Shipped,Success
+19:38:26,321,REWORKED,Cap QC,Missing Cap
+19:38:30,321,SHIPPED,Shipped,Success
+19:38:37,322,SHIPPED,Shipped,Success
+19:38:44,323,SHIPPED,Shipped,Success
+19:38:46,324,REWORKED,Bottle QC,Deformed Bottle
+19:38:52,324,SHIPPED,Shipped,Success
+19:38:59,325,SHIPPED,Shipped,Success
+19:39:06,326,SHIPPED,Shipped,Success
+19:39:09,327,REWORKED,Fill QC,Overfilled Bottle
+19:39:14,327,SHIPPED,Shipped,Success
+19:39:21,328,SHIPPED,Shipped,Success
+19:39:27,329,REJECTED,Final QC,Overall Product Failure
+19:39:29,330,REWORKED,Fill QC,Underfilled Bottle
+19:39:35,330,SHIPPED,Shipped,Success
+19:39:42,331,SHIPPED,Shipped,Success
+19:39:47,332,REWORKED,Label QC,Crooked Label
+19:39:50,332,SHIPPED,Shipped,Success
+19:39:57,333,SHIPPED,Shipped,Success
+19:40:04,334,SHIPPED,Shipped,Success
+19:40:11,335,SHIPPED,Shipped,Success
+19:40:18,336,SHIPPED,Shipped,Success
+19:40:25,337,SHIPPED,Shipped,Success
+19:40:32,338,SHIPPED,Shipped,Success
+19:40:39,339,SHIPPED,Shipped,Success
+19:40:40,340,REWORKED,Bottle QC,Deformed Bottle
+19:40:47,340,SHIPPED,Shipped,Success
+19:40:54,341,SHIPPED,Shipped,Success
+19:40:59,342,REWORKED,Label QC,Missing Label
+19:41:02,342,SHIPPED,Shipped,Success
+19:41:09,343,SHIPPED,Shipped,Success
+19:41:15,344,SHIPPED,Shipped,Success
+19:41:22,345,SHIPPED,Shipped,Success
+19:41:27,346,REWORKED,Label QC,Crooked Label
+19:41:29,346,REWORKED,Label QC,Missing Label
+19:41:32,346,SHIPPED,Shipped,Success
+19:41:35,347,REWORKED,Cap QC,Missing Cap
+19:41:40,347,SHIPPED,Shipped,Success
+19:41:41,348,REWORKED,Bottle QC,Deformed Bottle
+19:41:48,348,SHIPPED,Shipped,Success
+19:41:55,349,SHIPPED,Shipped,Success
+19:42:02,350,SHIPPED,Shipped,Success
+19:42:04,351,REWORKED,Fill QC,Overfilled Bottle
+19:42:10,351,SHIPPED,Shipped,Success
+19:42:17,352,SHIPPED,Shipped,Success
+19:42:22,353,REWORKED,Label QC,Missing Label
+19:42:25,353,SHIPPED,Shipped,Success
+19:42:32,354,SHIPPED,Shipped,Success
+19:42:39,355,SHIPPED,Shipped,Success
+19:42:42,356,REWORKED,Cap QC,Loose Cap
+19:42:47,356,SHIPPED,Shipped,Success
+19:42:50,357,REWORKED,Cap QC,Missing Cap
+19:42:55,357,SHIPPED,Shipped,Success
+19:42:56,358,REWORKED,Bottle QC,Cracked Bottle
+19:43:01,358,REWORKED,Label QC,Missing Label
+19:43:04,358,SHIPPED,Shipped,Success
+19:43:10,359,REJECTED,Final QC,Overall Product Failure
+19:43:17,360,SHIPPED,Shipped,Success
+19:43:21,361,REWORKED,Cap QC,Loose Cap
+19:43:25,361,SHIPPED,Shipped,Success
+19:43:32,362,SHIPPED,Shipped,Success
+19:43:39,363,SHIPPED,Shipped,Success
+19:43:41,364,REWORKED,Fill QC,Underfilled Bottle
+19:43:47,364,SHIPPED,Shipped,Success
+19:43:54,365,SHIPPED,Shipped,Success
+19:44:01,366,SHIPPED,Shipped,Success
+19:44:08,367,SHIPPED,Shipped,Success
+19:44:13,368,REWORKED,Label QC,Crooked Label
+19:44:16,368,SHIPPED,Shipped,Success
+19:44:18,369,REWORKED,Fill QC,Overfilled Bottle
+19:44:22,369,REWORKED,Label QC,Crooked Label
+19:44:25,369,SHIPPED,Shipped,Success
+19:44:32,370,SHIPPED,Shipped,Success
+19:44:36,371,REWORKED,Cap QC,Missing Cap
+19:44:40,371,SHIPPED,Shipped,Success
+19:44:41,372,REWORKED,Bottle QC,Cracked Bottle
+19:44:45,372,REWORKED,Cap QC,Loose Cap
+19:44:46,372,REWORKED,Cap QC,Missing Cap
+19:44:47,372,REWORKED,Cap QC,Missing Cap
+19:44:51,372,SHIPPED,Shipped,Success
+19:44:58,373,SHIPPED,Shipped,Success
+19:45:05,374,SHIPPED,Shipped,Success
+19:45:08,375,REWORKED,Fill QC,Overfilled Bottle
+19:45:13,375,SHIPPED,Shipped,Success
+19:45:20,376,SHIPPED,Shipped,Success
+19:45:23,377,REWORKED,Fill QC,Underfilled Bottle
+19:45:27,377,REJECTED,Final QC,Overall Product Failure
+19:45:34,378,SHIPPED,Shipped,Success
+19:45:41,379,SHIPPED,Shipped,Success
+19:45:48,380,SHIPPED,Shipped,Success
+19:45:55,381,SHIPPED,Shipped,Success
+19:45:58,382,REWORKED,Fill QC,Overfilled Bottle
+19:46:03,382,SHIPPED,Shipped,Success
+19:46:08,383,REWORKED,Label QC,Missing Label
+19:46:11,383,SHIPPED,Shipped,Success
+19:46:18,384,SHIPPED,Shipped,Success
+19:46:21,385,REWORKED,Fill QC,Underfilled Bottle
+19:46:26,385,SHIPPED,Shipped,Success
+19:46:33,386,SHIPPED,Shipped,Success
+19:46:37,387,REWORKED,Cap QC,Missing Cap
+19:46:41,387,SHIPPED,Shipped,Success
+19:46:48,388,SHIPPED,Shipped,Success
+19:46:55,389,SHIPPED,Shipped,Success
+19:47:02,390,SHIPPED,Shipped,Success
+19:47:07,391,REWORKED,Label QC,Crooked Label
+19:47:09,391,REJECTED,Final QC,Overall Product Failure
+19:47:16,392,SHIPPED,Shipped,Success
+19:47:23,393,SHIPPED,Shipped,Success
+19:47:30,394,SHIPPED,Shipped,Success
+19:47:37,395,SHIPPED,Shipped,Success
+19:47:43,396,REJECTED,Final QC,Overall Product Failure
+19:47:48,397,REWORKED,Label QC,Missing Label
+19:47:51,397,SHIPPED,Shipped,Success
+19:47:58,398,SHIPPED,Shipped,Success
+19:47:59,399,REWORKED,Bottle QC,Cracked Bottle
+19:48:03,399,REWORKED,Cap QC,Loose Cap
+19:48:07,399,SHIPPED,Shipped,Success
+19:48:14,400,SHIPPED,Shipped,Success
+19:48:21,401,SHIPPED,Shipped,Success
+19:48:25,402,REWORKED,Cap QC,Loose Cap
+19:48:29,402,SHIPPED,Shipped,Success
+19:48:36,403,SHIPPED,Shipped,Success
+19:48:37,404,REWORKED,Bottle QC,Deformed Bottle
+19:48:38,404,REWORKED,Bottle QC,Deformed Bottle
+19:48:45,404,SHIPPED,Shipped,Success
+19:48:52,405,SHIPPED,Shipped,Success
+19:48:59,406,SHIPPED,Shipped,Success
+19:49:06,407,SHIPPED,Shipped,Success
+19:49:12,408,REJECTED,Final QC,Contamination
+19:49:19,409,SHIPPED,Shipped,Success
+19:49:25,410,REJECTED,Final QC,Contamination
+19:49:32,411,SHIPPED,Shipped,Success
+19:49:39,412,SHIPPED,Shipped,Success
+19:49:41,413,REWORKED,Fill QC,Underfilled Bottle
+19:49:42,413,REWORKED,Fill QC,Underfilled Bottle
+19:49:48,413,SHIPPED,Shipped,Success
+19:49:55,414,SHIPPED,Shipped,Success
+19:50:02,415,SHIPPED,Shipped,Success
+19:50:09,416,SHIPPED,Shipped,Success
+19:50:16,417,SHIPPED,Shipped,Success
+19:50:21,418,REWORKED,Label QC,Missing Label
+19:50:24,418,SHIPPED,Shipped,Success
+19:50:31,419,SHIPPED,Shipped,Success
+19:50:36,420,REJECTED,Final QC,Overall Product Failure
+19:50:42,421,REWORKED,Label QC,Missing Label
+19:50:45,421,SHIPPED,Shipped,Success
+19:50:52,422,SHIPPED,Shipped,Success
+19:50:57,423,REJECTED,Final QC,Contamination
+19:51:03,424,REJECTED,Final QC,Overall Product Failure
+19:51:10,425,SHIPPED,Shipped,Success
+19:51:17,426,SHIPPED,Shipped,Success
+19:51:19,427,REWORKED,Bottle QC,Cracked Bottle
+19:51:21,427,REWORKED,Fill QC,Underfilled Bottle
+19:51:25,427,REJECTED,Final QC,Overall Product Failure
+19:51:32,428,SHIPPED,Shipped,Success
+19:51:38,429,REJECTED,Final QC,Overall Product Failure
+19:51:45,430,SHIPPED,Shipped,Success
+19:51:52,431,SHIPPED,Shipped,Success
+19:51:57,432,REWORKED,Label QC,Crooked Label
+19:52:00,432,SHIPPED,Shipped,Success
+19:52:05,433,REWORKED,Label QC,Missing Label
+19:52:08,433,SHIPPED,Shipped,Success
+19:52:14,434,REWORKED,Label QC,Missing Label
+19:52:17,434,SHIPPED,Shipped,Success
+19:52:24,435,SHIPPED,Shipped,Success
+19:52:31,436,SHIPPED,Shipped,Success
+19:52:37,437,SHIPPED,Shipped,Success
+19:52:44,438,SHIPPED,Shipped,Success
+19:52:50,439,REWORKED,Label QC,Crooked Label
+19:52:53,439,SHIPPED,Shipped,Success
+19:53:00,440,SHIPPED,Shipped,Success
+19:53:06,441,SHIPPED,Shipped,Success
+19:53:09,442,REWORKED,Fill QC,Underfilled Bottle
+19:53:15,442,SHIPPED,Shipped,Success
+19:53:22,443,SHIPPED,Shipped,Success
+19:53:28,444,SHIPPED,Shipped,Success
+19:53:35,445,SHIPPED,Shipped,Success
+19:53:40,446,REWORKED,Label QC,Missing Label
+19:53:42,446,REWORKED,Label QC,Crooked Label
+19:53:45,446,SHIPPED,Shipped,Success
+19:53:47,447,REWORKED,Fill QC,Underfilled Bottle
+19:53:50,447,REWORKED,Cap QC,Loose Cap
+19:53:54,447,SHIPPED,Shipped,Success
+19:54:01,448,SHIPPED,Shipped,Success
+19:54:08,449,SHIPPED,Shipped,Success
+19:54:09,450,REWORKED,Bottle QC,Deformed Bottle
+19:54:16,450,SHIPPED,Shipped,Success
+19:54:23,451,SHIPPED,Shipped,Success
+19:54:24,452,REWORKED,Bottle QC,Cracked Bottle
+19:54:28,452,REWORKED,Cap QC,Missing Cap
+19:54:29,452,REWORKED,Cap QC,Missing Cap
+19:54:33,452,SHIPPED,Shipped,Success
+19:54:40,453,SHIPPED,Shipped,Success
+19:54:42,454,REWORKED,Bottle QC,Deformed Bottle
+19:54:44,454,REWORKED,Fill QC,Overfilled Bottle
+19:54:49,454,SHIPPED,Shipped,Success
+19:54:53,455,REWORKED,Cap QC,Missing Cap
+19:54:57,455,SHIPPED,Shipped,Success
+19:55:00,456,REWORKED,Fill QC,Overfilled Bottle
+19:55:06,456,SHIPPED,Shipped,Success
+19:55:12,457,SHIPPED,Shipped,Success
+19:55:19,458,SHIPPED,Shipped,Success
+19:55:23,459,REWORKED,Cap QC,Loose Cap
+19:55:28,459,SHIPPED,Shipped,Success
+19:55:33,460,REWORKED,Label QC,Crooked Label
+19:55:36,460,SHIPPED,Shipped,Success
+19:55:43,461,SHIPPED,Shipped,Success
+19:55:49,462,SHIPPED,Shipped,Success
+19:55:56,463,SHIPPED,Shipped,Success
+19:56:03,464,SHIPPED,Shipped,Success
+19:56:10,465,SHIPPED,Shipped,Success
+19:56:17,466,SHIPPED,Shipped,Success
+19:56:24,467,SHIPPED,Shipped,Success
+19:56:26,468,REWORKED,Bottle QC,Cracked Bottle
+19:56:27,468,REWORKED,Bottle QC,Deformed Bottle
+19:56:34,468,SHIPPED,Shipped,Success
+19:56:41,469,SHIPPED,Shipped,Success
+19:56:48,470,SHIPPED,Shipped,Success
+19:56:55,471,SHIPPED,Shipped,Success
+19:57:00,472,REJECTED,Final QC,Contamination
+19:57:03,473,REWORKED,Fill QC,Underfilled Bottle
+19:57:05,473,REWORKED,Cap QC,Missing Cap
+19:57:10,473,SHIPPED,Shipped,Success
+19:57:12,474,REWORKED,Fill QC,Underfilled Bottle
+19:57:18,474,SHIPPED,Shipped,Success
+19:57:25,475,SHIPPED,Shipped,Success
+19:57:32,476,SHIPPED,Shipped,Success
+19:57:39,477,SHIPPED,Shipped,Success
+19:57:46,478,SHIPPED,Shipped,Success
+19:57:51,479,REJECTED,Final QC,Contamination
+19:57:57,480,REJECTED,Final QC,Contamination
+19:57:59,481,REWORKED,Bottle QC,Cracked Bottle
+19:58:05,481,SHIPPED,Shipped,Success
+19:58:12,482,SHIPPED,Shipped,Success
+19:58:19,483,SHIPPED,Shipped,Success
+19:58:22,484,REWORKED,Fill QC,Underfilled Bottle
+19:58:26,484,REJECTED,Final QC,Overall Product Failure
+19:58:33,485,SHIPPED,Shipped,Success
+19:58:39,486,REJECTED,Final QC,Overall Product Failure
+19:58:44,487,REWORKED,Label QC,Crooked Label
+19:58:47,487,SHIPPED,Shipped,Success
+19:58:49,488,REWORKED,Bottle QC,Deformed Bottle
+19:58:55,488,SHIPPED,Shipped,Success
+19:59:02,489,SHIPPED,Shipped,Success
+19:59:04,490,REWORKED,Bottle QC,Cracked Bottle
+19:59:11,490,SHIPPED,Shipped,Success
+19:59:13,491,REWORKED,Fill QC,Overfilled Bottle
+19:59:19,491,SHIPPED,Shipped,Success
+19:59:26,492,SHIPPED,Shipped,Success
+19:59:33,493,SHIPPED,Shipped,Success
+19:59:39,494,SHIPPED,Shipped,Success
+19:59:43,495,REWORKED,Cap QC,Missing Cap
+19:59:46,495,REWORKED,Label QC,Crooked Label
+19:59:49,495,SHIPPED,Shipped,Success
+19:59:56,496,SHIPPED,Shipped,Success
+20:00:01,497,REJECTED,Final QC,Overall Product Failure
+20:00:08,498,SHIPPED,Shipped,Success
+20:00:15,499,SHIPPED,Shipped,Success
+20:00:21,500,REJECTED,Final QC,Contamination
+20:00:27,501,REJECTED,Final QC,Overall Product Failure
+20:00:31,502,REWORKED,Cap QC,Loose Cap
+20:00:35,502,SHIPPED,Shipped,Success
+20:00:42,503,SHIPPED,Shipped,Success
+20:00:46,504,REWORKED,Cap QC,Missing Cap
+20:00:50,504,SHIPPED,Shipped,Success
+20:00:52,505,REWORKED,Bottle QC,Cracked Bottle
+20:00:55,505,REWORKED,Cap QC,Missing Cap
+20:01:00,505,SHIPPED,Shipped,Success
+20:01:07,506,SHIPPED,Shipped,Success
+20:01:09,507,REWORKED,Fill QC,Underfilled Bottle
+20:01:15,507,SHIPPED,Shipped,Success
+20:01:22,508,SHIPPED,Shipped,Success
+20:01:29,509,SHIPPED,Shipped,Success
+20:01:34,510,REJECTED,Final QC,Contamination
+20:01:42,511,SHIPPED,Shipped,Success
+20:01:48,512,SHIPPED,Shipped,Success
+20:01:51,513,REWORKED,Fill QC,Underfilled Bottle
+20:01:53,513,REWORKED,Cap QC,Missing Cap
+20:01:55,513,REWORKED,Cap QC,Loose Cap
+20:01:59,513,SHIPPED,Shipped,Success
+20:02:06,514,SHIPPED,Shipped,Success
+20:02:13,515,SHIPPED,Shipped,Success
+20:02:20,516,SHIPPED,Shipped,Success
+20:02:27,517,SHIPPED,Shipped,Success
+20:02:34,518,SHIPPED,Shipped,Success
+20:02:41,519,SHIPPED,Shipped,Success
+20:02:48,520,SHIPPED,Shipped,Success
+20:02:55,521,SHIPPED,Shipped,Success
+20:02:56,522,REWORKED,Bottle QC,Cracked Bottle
+20:03:01,522,REJECTED,Final QC,Contamination
+20:03:09,523,SHIPPED,Shipped,Success
+20:03:16,524,SHIPPED,Shipped,Success
+20:03:23,525,SHIPPED,Shipped,Success
+20:03:30,526,SHIPPED,Shipped,Success
+20:03:37,527,SHIPPED,Shipped,Success
+20:03:44,528,SHIPPED,Shipped,Success
+20:03:51,529,SHIPPED,Shipped,Success
+20:03:57,530,SHIPPED,Shipped,Success
+20:03:59,531,REWORKED,Bottle QC,Cracked Bottle
+20:04:01,531,REWORKED,Fill QC,Underfilled Bottle
+20:04:07,531,SHIPPED,Shipped,Success
+20:04:12,532,REJECTED,Final QC,Overall Product Failure
+20:04:20,533,SHIPPED,Shipped,Success
+20:04:26,534,SHIPPED,Shipped,Success
+20:04:33,535,SHIPPED,Shipped,Success
+20:04:40,536,SHIPPED,Shipped,Success
+20:04:47,537,SHIPPED,Shipped,Success
+20:04:54,538,SHIPPED,Shipped,Success
+20:05:01,539,SHIPPED,Shipped,Success
+20:05:08,540,SHIPPED,Shipped,Success
+20:05:14,541,REJECTED,Final QC,Overall Product Failure
+20:05:21,542,SHIPPED,Shipped,Success
+20:05:28,543,SHIPPED,Shipped,Success
+20:05:35,544,SHIPPED,Shipped,Success
+20:05:42,545,SHIPPED,Shipped,Success
+20:05:49,546,SHIPPED,Shipped,Success
+20:05:52,547,REWORKED,Fill QC,Underfilled Bottle
+20:05:55,547,REWORKED,Label QC,Missing Label
+20:05:57,547,REJECTED,Final QC,Overall Product Failure
+20:06:04,548,SHIPPED,Shipped,Success
+20:06:11,549,SHIPPED,Shipped,Success
+20:06:18,550,SHIPPED,Shipped,Success
+20:06:25,551,SHIPPED,Shipped,Success
+20:06:27,552,REWORKED,Bottle QC,Cracked Bottle
+20:06:33,552,SHIPPED,Shipped,Success
+20:06:40,553,SHIPPED,Shipped,Success
+20:06:46,554,REJECTED,Final QC,Contamination
+20:06:53,555,SHIPPED,Shipped,Success
+20:06:56,556,REWORKED,Fill QC,Overfilled Bottle
+20:07:01,556,SHIPPED,Shipped,Success
+20:07:03,557,REWORKED,Bottle QC,Cracked Bottle
+20:07:05,557,REWORKED,Fill QC,Overfilled Bottle
+20:07:11,557,SHIPPED,Shipped,Success
+20:07:12,558,REWORKED,Bottle QC,Cracked Bottle
+20:07:13,558,REWORKED,Bottle QC,Deformed Bottle
+20:07:20,558,SHIPPED,Shipped,Success
+20:07:24,559,REWORKED,Cap QC,Missing Cap
+20:07:27,559,REJECTED,Final QC,Overall Product Failure
+20:07:29,560,REWORKED,Fill QC,Underfilled Bottle
+20:07:35,560,SHIPPED,Shipped,Success
+20:07:42,561,SHIPPED,Shipped,Success
+20:07:49,562,SHIPPED,Shipped,Success
+20:07:55,563,REJECTED,Final QC,Contamination
+20:08:02,564,SHIPPED,Shipped,Success
+20:08:04,565,REWORKED,Fill QC,Underfilled Bottle
+20:08:07,565,REWORKED,Cap QC,Loose Cap
+20:08:10,565,REJECTED,Final QC,Overall Product Failure
+20:08:17,566,SHIPPED,Shipped,Success
+20:08:20,567,REWORKED,Fill QC,Underfilled Bottle
+20:08:25,567,SHIPPED,Shipped,Success
+20:08:32,568,SHIPPED,Shipped,Success
+20:08:39,569,SHIPPED,Shipped,Success
+20:08:46,570,SHIPPED,Shipped,Success
+20:08:52,571,REJECTED,Final QC,Overall Product Failure
+20:08:53,572,REWORKED,Bottle QC,Cracked Bottle
+20:09:00,572,SHIPPED,Shipped,Success
+20:09:07,573,SHIPPED,Shipped,Success
+20:09:08,574,REWORKED,Bottle QC,Deformed Bottle
+20:09:12,574,REWORKED,Cap QC,Missing Cap
+20:09:16,574,SHIPPED,Shipped,Success
+20:09:19,575,REWORKED,Fill QC,Underfilled Bottle
+20:09:24,575,SHIPPED,Shipped,Success
+20:09:31,576,SHIPPED,Shipped,Success
+20:09:38,577,SHIPPED,Shipped,Success
+20:09:45,578,SHIPPED,Shipped,Success
+20:09:48,579,REWORKED,Fill QC,Overfilled Bottle
+20:09:49,579,REWORKED,Fill QC,Underfilled Bottle
+20:09:54,579,SHIPPED,Shipped,Success
+20:10:01,580,SHIPPED,Shipped,Success
+20:10:08,581,SHIPPED,Shipped,Success
+20:10:14,582,REWORKED,Label QC,Missing Label
+20:10:17,582,SHIPPED,Shipped,Success
+20:10:24,583,SHIPPED,Shipped,Success
+20:10:31,584,SHIPPED,Shipped,Success
+20:10:34,585,REWORKED,Cap QC,Missing Cap
+20:10:39,585,SHIPPED,Shipped,Success
+20:10:46,586,SHIPPED,Shipped,Success
+20:10:53,587,SHIPPED,Shipped,Success
+20:10:55,588,REWORKED,Fill QC,Underfilled Bottle
+20:11:01,588,SHIPPED,Shipped,Success
+20:11:08,589,SHIPPED,Shipped,Success
+20:11:13,590,REWORKED,Label QC,Crooked Label
+20:11:16,590,SHIPPED,Shipped,Success
+20:11:21,591,REWORKED,Label QC,Missing Label
+20:11:24,591,SHIPPED,Shipped,Success
+20:11:31,592,SHIPPED,Shipped,Success
+20:11:38,593,SHIPPED,Shipped,Success
+20:11:39,594,REWORKED,Bottle QC,Deformed Bottle
+20:11:46,594,SHIPPED,Shipped,Success
+20:11:51,595,REWORKED,Label QC,Missing Label
+20:11:54,595,SHIPPED,Shipped,Success
+20:12:01,596,SHIPPED,Shipped,Success
+20:12:08,597,SHIPPED,Shipped,Success
+20:12:10,598,REWORKED,Bottle QC,Cracked Bottle
+20:12:16,598,SHIPPED,Shipped,Success
+20:12:23,599,SHIPPED,Shipped,Success
+20:12:30,600,SHIPPED,Shipped,Success
+20:12:37,601,SHIPPED,Shipped,Success
+20:12:44,602,SHIPPED,Shipped,Success
+20:12:51,603,SHIPPED,Shipped,Success
+20:12:58,604,SHIPPED,Shipped,Success
+20:13:05,605,SHIPPED,Shipped,Success
+20:13:11,606,REJECTED,Final QC,Overall Product Failure
+20:13:13,607,REWORKED,Bottle QC,Deformed Bottle
+20:13:19,607,SHIPPED,Shipped,Success
+20:13:26,608,SHIPPED,Shipped,Success
+20:13:29,609,REWORKED,Fill QC,Overfilled Bottle
+20:13:33,609,REJECTED,Final QC,Contamination
+20:13:40,610,SHIPPED,Shipped,Success
+20:13:47,611,SHIPPED,Shipped,Success
+20:13:54,612,SHIPPED,Shipped,Success
+20:14:01,613,SHIPPED,Shipped,Success
+20:14:08,614,SHIPPED,Shipped,Success
+20:14:15,615,SHIPPED,Shipped,Success
+20:14:17,616,REWORKED,Bottle QC,Cracked Bottle
+20:14:18,616,REWORKED,Bottle QC,Deformed Bottle
+20:14:24,616,SHIPPED,Shipped,Success
+20:14:31,617,SHIPPED,Shipped,Success
+20:14:33,618,REWORKED,Bottle QC,Cracked Bottle
+20:14:40,618,SHIPPED,Shipped,Success
+20:14:47,619,SHIPPED,Shipped,Success
+20:14:48,620,REWORKED,Bottle QC,Cracked Bottle
+20:14:55,620,SHIPPED,Shipped,Success
+20:14:58,621,REWORKED,Cap QC,Missing Cap
+20:15:00,621,REWORKED,Cap QC,Missing Cap
+20:15:04,621,SHIPPED,Shipped,Success
+20:15:08,622,REWORKED,Cap QC,Loose Cap
+20:15:09,622,REWORKED,Cap QC,Missing Cap
+20:15:13,622,SHIPPED,Shipped,Success
+20:15:20,623,SHIPPED,Shipped,Success
+20:15:25,624,REWORKED,Label QC,Crooked Label
+20:15:28,624,SHIPPED,Shipped,Success
+20:15:35,625,SHIPPED,Shipped,Success
+20:15:42,626,SHIPPED,Shipped,Success
+20:15:46,627,REWORKED,Cap QC,Missing Cap
+20:15:50,627,SHIPPED,Shipped,Success
+20:15:57,628,SHIPPED,Shipped,Success
+20:16:03,629,REJECTED,Final QC,Contamination
+20:16:10,630,SHIPPED,Shipped,Success
+20:16:17,631,SHIPPED,Shipped,Success
+20:16:24,632,SHIPPED,Shipped,Success
+20:16:31,633,SHIPPED,Shipped,Success
+20:16:38,634,SHIPPED,Shipped,Success
+20:16:41,635,REWORKED,Fill QC,Underfilled Bottle
+20:16:45,635,REJECTED,Final QC,Contamination
+20:16:49,636,REWORKED,Cap QC,Missing Cap
+20:16:53,636,SHIPPED,Shipped,Success
+20:16:56,637,REWORKED,Fill QC,Underfilled Bottle
+20:17:01,637,SHIPPED,Shipped,Success
+20:17:08,638,SHIPPED,Shipped,Success
+20:17:15,639,SHIPPED,Shipped,Success
+20:17:22,640,SHIPPED,Shipped,Success
+20:17:29,641,SHIPPED,Shipped,Success
+20:17:35,642,REJECTED,Final QC,Overall Product Failure
+20:17:37,643,REWORKED,Bottle QC,Cracked Bottle
+20:17:42,643,REJECTED,Final QC,Contamination
+20:17:44,644,REWORKED,Bottle QC,Cracked Bottle
+20:17:50,644,SHIPPED,Shipped,Success
+20:17:58,645,SHIPPED,Shipped,Success
+20:18:01,646,REWORKED,Cap QC,Missing Cap
+20:18:04,646,REJECTED,Final QC,Contamination
+20:18:07,647,REWORKED,Fill QC,Underfilled Bottle
+20:18:13,647,SHIPPED,Shipped,Success
+20:18:14,648,REWORKED,Bottle QC,Cracked Bottle
+20:18:18,648,REWORKED,Cap QC,Loose Cap
+20:18:22,648,SHIPPED,Shipped,Success
+20:18:29,649,SHIPPED,Shipped,Success
+20:18:34,650,REWORKED,Label QC,Missing Label
+20:18:37,650,SHIPPED,Shipped,Success
+20:18:44,651,SHIPPED,Shipped,Success
+20:18:48,652,REWORKED,Cap QC,Loose Cap
+20:18:49,652,REWORKED,Cap QC,Loose Cap
+20:18:53,652,SHIPPED,Shipped,Success
+20:18:56,653,REWORKED,Fill QC,Underfilled Bottle
+20:19:01,653,SHIPPED,Shipped,Success
+20:19:03,654,REWORKED,Bottle QC,Cracked Bottle
+20:19:06,654,REWORKED,Cap QC,Loose Cap
+20:19:11,654,SHIPPED,Shipped,Success
+20:19:12,655,REWORKED,Bottle QC,Deformed Bottle
+20:19:19,655,SHIPPED,Shipped,Success
+20:19:26,656,SHIPPED,Shipped,Success
+20:19:33,657,SHIPPED,Shipped,Success
+20:19:37,658,REWORKED,Cap QC,Missing Cap
+20:19:39,658,REWORKED,Label QC,Crooked Label
+20:19:42,658,SHIPPED,Shipped,Success
+20:19:49,659,SHIPPED,Shipped,Success
+20:19:53,660,REWORKED,Cap QC,Loose Cap
+20:19:57,660,SHIPPED,Shipped,Success
+20:20:04,661,SHIPPED,Shipped,Success
+20:20:11,662,SHIPPED,Shipped,Success
+20:20:15,663,REWORKED,Cap QC,Loose Cap
+20:20:19,663,SHIPPED,Shipped,Success
+20:20:26,664,SHIPPED,Shipped,Success
+20:20:33,665,SHIPPED,Shipped,Success
+20:20:35,666,REWORKED,Bottle QC,Deformed Bottle
+20:20:41,666,SHIPPED,Shipped,Success
+20:20:48,667,SHIPPED,Shipped,Success
+20:20:55,668,SHIPPED,Shipped,Success
+20:20:57,669,REWORKED,Bottle QC,Cracked Bottle
+20:21:00,669,REWORKED,Cap QC,Missing Cap
+20:21:05,669,SHIPPED,Shipped,Success
+20:21:12,670,SHIPPED,Shipped,Success
+20:21:19,671,SHIPPED,Shipped,Success
+20:21:21,672,REWORKED,Fill QC,Underfilled Bottle
+20:21:27,672,SHIPPED,Shipped,Success
+20:21:34,673,SHIPPED,Shipped,Success
+20:21:38,674,REWORKED,Cap QC,Loose Cap
+20:21:39,674,REWORKED,Cap QC,Missing Cap
+20:21:43,674,SHIPPED,Shipped,Success
+20:21:50,675,SHIPPED,Shipped,Success
+20:21:57,676,SHIPPED,Shipped,Success
+20:22:04,677,SHIPPED,Shipped,Success
+20:22:10,678,REJECTED,Final QC,Contamination
+20:22:11,679,REWORKED,Bottle QC,Cracked Bottle
+20:22:18,679,SHIPPED,Shipped,Success
+20:22:25,680,SHIPPED,Shipped,Success
+20:22:29,681,REWORKED,Cap QC,Loose Cap
+20:22:33,681,SHIPPED,Shipped,Success
+20:22:40,682,SHIPPED,Shipped,Success
+20:22:43,683,REWORKED,Fill QC,Overfilled Bottle
+20:22:45,683,REWORKED,Cap QC,Loose Cap
+20:22:50,683,SHIPPED,Shipped,Success
+20:22:52,684,REWORKED,Fill QC,Underfilled Bottle
+20:22:56,684,REWORKED,Label QC,Missing Label
+20:22:59,684,SHIPPED,Shipped,Success
+20:23:05,685,REJECTED,Final QC,Contamination
+20:23:09,686,REWORKED,Cap QC,Loose Cap
+20:23:13,686,SHIPPED,Shipped,Success
+20:23:20,687,SHIPPED,Shipped,Success
+20:23:24,688,REWORKED,Cap QC,Missing Cap
+20:23:26,688,REWORKED,Label QC,Missing Label
+20:23:29,688,SHIPPED,Shipped,Success
+20:23:36,689,SHIPPED,Shipped,Success
+20:23:43,690,SHIPPED,Shipped,Success
+20:23:50,691,SHIPPED,Shipped,Success
+20:23:57,692,SHIPPED,Shipped,Success
+20:24:04,693,SHIPPED,Shipped,Success
+20:24:07,694,REWORKED,Fill QC,Underfilled Bottle
+20:24:12,694,SHIPPED,Shipped,Success
+20:24:19,695,SHIPPED,Shipped,Success
+20:24:25,696,REJECTED,Final QC,Contamination
+20:24:32,697,SHIPPED,Shipped,Success
+20:24:38,698,REJECTED,Final QC,Overall Product Failure
+20:24:43,699,REWORKED,Label QC,Missing Label
+20:24:46,699,SHIPPED,Shipped,Success
+20:24:53,700,SHIPPED,Shipped,Success
+20:24:57,701,REWORKED,Cap QC,Loose Cap
+20:25:02,701,SHIPPED,Shipped,Success
+20:25:09,702,SHIPPED,Shipped,Success
+20:25:12,703,REWORKED,Cap QC,Loose Cap
+20:25:17,703,SHIPPED,Shipped,Success
+20:25:21,704,REWORKED,Cap QC,Loose Cap
+20:25:25,704,SHIPPED,Shipped,Success
+20:25:32,705,SHIPPED,Shipped,Success
+20:25:38,706,REJECTED,Final QC,Overall Product Failure
+20:25:45,707,SHIPPED,Shipped,Success
+20:25:52,708,SHIPPED,Shipped,Success
+20:25:59,709,SHIPPED,Shipped,Success
+20:26:06,710,SHIPPED,Shipped,Success
+20:26:08,711,REWORKED,Fill QC,Overfilled Bottle
+20:26:11,711,REWORKED,Cap QC,Loose Cap
+20:26:15,711,SHIPPED,Shipped,Success
+20:26:22,712,SHIPPED,Shipped,Success
+20:26:29,713,SHIPPED,Shipped,Success
+20:26:36,714,SHIPPED,Shipped,Success
+20:26:43,715,SHIPPED,Shipped,Success
+20:26:44,716,REWORKED,Bottle QC,Deformed Bottle
+20:26:51,716,SHIPPED,Shipped,Success
+20:26:58,717,SHIPPED,Shipped,Success
+20:27:05,718,SHIPPED,Shipped,Success
+20:27:10,719,REWORKED,Label QC,Crooked Label
+20:27:12,719,REJECTED,Final QC,Contamination
+20:27:17,720,REWORKED,Label QC,Missing Label
+20:27:20,720,SHIPPED,Shipped,Success
+20:27:27,721,SHIPPED,Shipped,Success
+20:27:34,722,SHIPPED,Shipped,Success
+20:27:41,723,SHIPPED,Shipped,Success
+20:27:47,724,REWORKED,Label QC,Crooked Label
+20:27:48,724,REWORKED,Label QC,Missing Label
+20:27:51,724,SHIPPED,Shipped,Success
+20:27:56,725,REWORKED,Label QC,Crooked Label
+20:27:59,725,SHIPPED,Shipped,Success
+20:28:03,726,REWORKED,Cap QC,Loose Cap
+20:28:07,726,SHIPPED,Shipped,Success
+20:28:14,727,SHIPPED,Shipped,Success
+20:28:15,728,REWORKED,Bottle QC,Deformed Bottle
+20:28:22,728,SHIPPED,Shipped,Success
+20:28:29,729,SHIPPED,Shipped,Success
+20:28:36,730,SHIPPED,Shipped,Success
+20:28:39,731,REWORKED,Fill QC,Underfilled Bottle
+20:28:44,731,SHIPPED,Shipped,Success
+20:28:49,732,REWORKED,Label QC,Missing Label
+20:28:52,732,SHIPPED,Shipped,Success
+20:28:54,733,REWORKED,Bottle QC,Deformed Bottle
+20:28:55,733,REWORKED,Bottle QC,Deformed Bottle
+20:28:58,733,REWORKED,Cap QC,Loose Cap
+20:29:01,733,REJECTED,Final QC,Overall Product Failure
+20:29:03,734,REWORKED,Bottle QC,Cracked Bottle
+20:29:10,734,SHIPPED,Shipped,Success
+20:29:12,735,REWORKED,Fill QC,Overfilled Bottle
+20:29:18,735,SHIPPED,Shipped,Success
+20:29:23,736,REWORKED,Label QC,Crooked Label
+20:29:24,736,REWORKED,Label QC,Missing Label
+20:29:27,736,SHIPPED,Shipped,Success
+20:29:32,737,REWORKED,Label QC,Crooked Label
+20:29:35,737,SHIPPED,Shipped,Success
+20:29:42,738,SHIPPED,Shipped,Success
+20:29:48,739,REWORKED,Label QC,Missing Label
+20:29:51,739,SHIPPED,Shipped,Success
+20:29:56,740,REWORKED,Label QC,Missing Label
+20:29:59,740,SHIPPED,Shipped,Success
+20:30:03,741,REWORKED,Cap QC,Missing Cap
+20:30:07,741,SHIPPED,Shipped,Success
+20:30:09,742,REWORKED,Fill QC,Overfilled Bottle
+20:30:15,742,SHIPPED,Shipped,Success
+20:30:22,743,SHIPPED,Shipped,Success
+20:30:29,744,SHIPPED,Shipped,Success
+20:30:32,745,REWORKED,Fill QC,Underfilled Bottle
+20:30:33,745,REWORKED,Fill QC,Underfilled Bottle
+20:30:38,745,SHIPPED,Shipped,Success
+20:30:45,746,SHIPPED,Shipped,Success
+20:30:48,747,REWORKED,Fill QC,Overfilled Bottle
+20:30:53,747,SHIPPED,Shipped,Success
+20:30:56,748,REWORKED,Fill QC,Underfilled Bottle
+20:31:02,748,SHIPPED,Shipped,Success
+20:31:09,749,SHIPPED,Shipped,Success
+20:31:11,750,REWORKED,Fill QC,Underfilled Bottle
+20:31:17,750,SHIPPED,Shipped,Success
+20:31:24,751,SHIPPED,Shipped,Success
+20:31:31,752,SHIPPED,Shipped,Success
+20:31:38,753,SHIPPED,Shipped,Success
+20:31:40,754,REWORKED,Fill QC,Overfilled Bottle
+20:31:46,754,SHIPPED,Shipped,Success
+20:31:53,755,SHIPPED,Shipped,Success
+20:31:56,756,REWORKED,Fill QC,Overfilled Bottle
+20:32:01,756,SHIPPED,Shipped,Success
+20:32:08,757,SHIPPED,Shipped,Success
+20:32:15,758,SHIPPED,Shipped,Success
+20:32:22,759,SHIPPED,Shipped,Success
+20:32:26,760,REWORKED,Cap QC,Missing Cap
+20:32:30,760,SHIPPED,Shipped,Success
+20:32:37,761,SHIPPED,Shipped,Success
+20:32:44,762,SHIPPED,Shipped,Success
+20:32:51,763,SHIPPED,Shipped,Success
+20:32:58,764,SHIPPED,Shipped,Success
+20:33:05,765,SHIPPED,Shipped,Success
+20:33:07,766,REWORKED,Bottle QC,Deformed Bottle
+20:33:13,766,SHIPPED,Shipped,Success
+20:33:15,767,REWORKED,Bottle QC,Cracked Bottle
+20:33:22,767,SHIPPED,Shipped,Success
+20:33:27,768,REWORKED,Label QC,Missing Label
+20:33:30,768,SHIPPED,Shipped,Success
+20:33:37,769,SHIPPED,Shipped,Success
+20:33:44,770,SHIPPED,Shipped,Success
+20:33:51,771,SHIPPED,Shipped,Success
+20:33:58,772,SHIPPED,Shipped,Success
+20:34:05,773,SHIPPED,Shipped,Success
+20:34:12,774,SHIPPED,Shipped,Success
+20:34:19,775,SHIPPED,Shipped,Success
+20:34:26,776,SHIPPED,Shipped,Success
+20:34:33,777,SHIPPED,Shipped,Success
+20:34:37,778,REWORKED,Cap QC,Missing Cap
+20:34:41,778,SHIPPED,Shipped,Success
+20:34:47,779,REJECTED,Final QC,Contamination
+20:34:54,780,SHIPPED,Shipped,Success
+20:35:00,781,REJECTED,Final QC,Contamination
+20:35:07,782,SHIPPED,Shipped,Success
+20:35:14,783,SHIPPED,Shipped,Success
+20:35:21,784,SHIPPED,Shipped,Success
+20:35:22,785,REWORKED,Bottle QC,Cracked Bottle
+20:35:23,785,REWORKED,Bottle QC,Deformed Bottle
+20:35:28,785,REWORKED,Label QC,Missing Label
+20:35:31,785,SHIPPED,Shipped,Success
+20:35:34,786,REWORKED,Fill QC,Overfilled Bottle
+20:35:39,786,SHIPPED,Shipped,Success
+20:35:46,787,SHIPPED,Shipped,Success
+20:35:53,788,SHIPPED,Shipped,Success
+20:35:59,789,REJECTED,Final QC,Contamination
+20:36:01,790,REWORKED,Bottle QC,Cracked Bottle
+20:36:08,790,SHIPPED,Shipped,Success
+20:36:15,791,SHIPPED,Shipped,Success
+20:36:18,792,REWORKED,Cap QC,Loose Cap
+20:36:23,792,SHIPPED,Shipped,Success
+20:36:28,793,REWORKED,Label QC,Crooked Label
+20:36:29,793,REWORKED,Label QC,Crooked Label
+20:36:31,793,REJECTED,Final QC,Contamination
+20:36:38,794,SHIPPED,Shipped,Success
+20:36:45,795,SHIPPED,Shipped,Success
+20:36:48,796,REWORKED,Fill QC,Underfilled Bottle
+20:36:53,796,SHIPPED,Shipped,Success
+20:37:00,797,SHIPPED,Shipped,Success
+20:37:07,798,SHIPPED,Shipped,Success
+20:37:14,799,SHIPPED,Shipped,Success
+20:37:21,800,SHIPPED,Shipped,Success
+20:37:26,801,REWORKED,Label QC,Crooked Label
+20:37:29,801,SHIPPED,Shipped,Success
+20:37:36,802,SHIPPED,Shipped,Success
+20:37:42,803,REJECTED,Final QC,Contamination
+20:37:49,804,SHIPPED,Shipped,Success
+20:37:56,805,SHIPPED,Shipped,Success
+20:38:03,806,SHIPPED,Shipped,Success
+20:38:09,807,REWORKED,Label QC,Crooked Label
+20:38:12,807,SHIPPED,Shipped,Success
+20:38:17,808,REJECTED,Final QC,Overall Product Failure
+20:38:19,809,REWORKED,Bottle QC,Deformed Bottle
+20:38:26,809,SHIPPED,Shipped,Success
+20:38:33,810,SHIPPED,Shipped,Success
+20:38:38,811,REWORKED,Label QC,Missing Label
+20:38:41,811,SHIPPED,Shipped,Success
+20:38:48,812,SHIPPED,Shipped,Success
+20:38:55,813,SHIPPED,Shipped,Success
+20:39:02,814,SHIPPED,Shipped,Success
+20:39:05,815,REWORKED,Fill QC,Overfilled Bottle
+20:39:10,815,SHIPPED,Shipped,Success
+20:39:13,816,REWORKED,Fill QC,Underfilled Bottle
+20:39:18,816,SHIPPED,Shipped,Success
+20:39:25,817,SHIPPED,Shipped,Success
+20:39:30,818,REWORKED,Label QC,Missing Label
+20:39:33,818,SHIPPED,Shipped,Success
+20:39:40,819,SHIPPED,Shipped,Success
+20:39:46,820,REJECTED,Final QC,Overall Product Failure
+20:39:50,821,REWORKED,Cap QC,Loose Cap
+20:39:55,821,SHIPPED,Shipped,Success
+20:39:58,822,REWORKED,Cap QC,Loose Cap
+20:40:00,822,REWORKED,Cap QC,Loose Cap
+20:40:01,822,REWORKED,Cap QC,Loose Cap
+20:40:05,822,SHIPPED,Shipped,Success
+20:40:12,823,SHIPPED,Shipped,Success
+20:40:19,824,SHIPPED,Shipped,Success
+20:40:22,825,REWORKED,Fill QC,Overfilled Bottle
+20:40:27,825,SHIPPED,Shipped,Success
+20:40:29,826,REWORKED,Bottle QC,Cracked Bottle
+20:40:35,826,SHIPPED,Shipped,Success
+20:40:42,827,SHIPPED,Shipped,Success
+20:40:45,828,REWORKED,Fill QC,Underfilled Bottle
+20:40:50,828,SHIPPED,Shipped,Success
+20:40:54,829,REWORKED,Cap QC,Loose Cap
+20:40:59,829,SHIPPED,Shipped,Success
+20:41:06,830,SHIPPED,Shipped,Success
+20:41:13,831,SHIPPED,Shipped,Success
+20:41:15,832,REWORKED,Fill QC,Underfilled Bottle
+20:41:21,832,SHIPPED,Shipped,Success
+20:41:26,833,REWORKED,Label QC,Missing Label
+20:41:29,833,SHIPPED,Shipped,Success
+20:41:34,834,REWORKED,Label QC,Missing Label
+20:41:37,834,SHIPPED,Shipped,Success
+20:41:44,835,SHIPPED,Shipped,Success
+20:41:49,836,REWORKED,Label QC,Missing Label
+20:41:52,836,SHIPPED,Shipped,Success
+20:41:57,837,REWORKED,Label QC,Missing Label
+20:41:58,837,REWORKED,Label QC,Missing Label
+20:42:01,837,SHIPPED,Shipped,Success
+20:42:08,838,SHIPPED,Shipped,Success
+20:42:16,839,SHIPPED,Shipped,Success
+20:42:23,840,SHIPPED,Shipped,Success
+20:42:30,841,SHIPPED,Shipped,Success
+20:42:32,842,REWORKED,Fill QC,Underfilled Bottle
+20:42:38,842,SHIPPED,Shipped,Success
+20:42:45,843,SHIPPED,Shipped,Success
+20:42:52,844,SHIPPED,Shipped,Success
+20:42:59,845,SHIPPED,Shipped,Success
+20:43:06,846,SHIPPED,Shipped,Success
+20:43:13,847,SHIPPED,Shipped,Success
+20:43:20,848,SHIPPED,Shipped,Success
+20:43:27,849,SHIPPED,Shipped,Success
+20:43:34,850,SHIPPED,Shipped,Success
+20:43:41,851,SHIPPED,Shipped,Success
+20:43:48,852,SHIPPED,Shipped,Success
+20:43:55,853,SHIPPED,Shipped,Success
+20:44:02,854,SHIPPED,Shipped,Success
+20:44:05,855,REWORKED,Fill QC,Underfilled Bottle
+20:44:08,855,REWORKED,Label QC,Crooked Label
+20:44:11,855,SHIPPED,Shipped,Success
+20:44:18,856,SHIPPED,Shipped,Success
+20:44:20,857,REWORKED,Bottle QC,Cracked Bottle
+20:44:22,857,REWORKED,Fill QC,Overfilled Bottle
+20:44:26,857,REWORKED,Label QC,Crooked Label
+20:44:29,857,SHIPPED,Shipped,Success
+20:44:36,858,SHIPPED,Shipped,Success
+20:44:43,859,SHIPPED,Shipped,Success
+20:44:50,860,SHIPPED,Shipped,Success
+20:44:57,861,SHIPPED,Shipped,Success
+20:45:02,862,REWORKED,Label QC,Missing Label
+20:45:05,862,SHIPPED,Shipped,Success
+20:45:09,863,REWORKED,Cap QC,Missing Cap
+20:45:13,863,SHIPPED,Shipped,Success
+20:45:15,864,REWORKED,Bottle QC,Cracked Bottle
+20:45:21,864,SHIPPED,Shipped,Success
+20:45:28,865,SHIPPED,Shipped,Success
+20:45:35,866,SHIPPED,Shipped,Success
+20:45:42,867,SHIPPED,Shipped,Success
+20:45:45,868,REWORKED,Fill QC,Underfilled Bottle
+20:45:47,868,REWORKED,Cap QC,Loose Cap
+20:45:52,868,SHIPPED,Shipped,Success
+20:45:59,869,SHIPPED,Shipped,Success
+20:46:06,870,SHIPPED,Shipped,Success
+20:46:13,871,SHIPPED,Shipped,Success
+20:46:20,872,SHIPPED,Shipped,Success
+20:46:27,873,SHIPPED,Shipped,Success
+20:46:34,874,SHIPPED,Shipped,Success
+20:46:41,875,SHIPPED,Shipped,Success
+20:46:44,876,REWORKED,Fill QC,Overfilled Bottle
+20:46:49,876,SHIPPED,Shipped,Success
+20:46:56,877,SHIPPED,Shipped,Success
+20:47:03,878,SHIPPED,Shipped,Success
+20:47:10,879,SHIPPED,Shipped,Success
+20:47:15,880,REWORKED,Label QC,Crooked Label
+20:47:17,880,REJECTED,Final QC,Overall Product Failure
+20:47:24,881,SHIPPED,Shipped,Success
+20:47:31,882,SHIPPED,Shipped,Success
+20:47:38,883,SHIPPED,Shipped,Success
+20:47:45,884,SHIPPED,Shipped,Success
+20:47:52,885,SHIPPED,Shipped,Success
+20:47:55,886,REWORKED,Fill QC,Overfilled Bottle
+20:48:00,886,SHIPPED,Shipped,Success
+20:48:04,887,REWORKED,Cap QC,Missing Cap
+20:48:09,887,SHIPPED,Shipped,Success
+20:48:11,888,REWORKED,Fill QC,Underfilled Bottle
+20:48:17,888,SHIPPED,Shipped,Success
+20:48:24,889,SHIPPED,Shipped,Success
+20:48:26,890,REWORKED,Fill QC,Underfilled Bottle
+20:48:32,890,SHIPPED,Shipped,Success
+20:48:35,891,REWORKED,Fill QC,Overfilled Bottle
+20:48:40,891,SHIPPED,Shipped,Success
+20:48:47,892,SHIPPED,Shipped,Success
+20:48:54,893,SHIPPED,Shipped,Success
+20:49:00,894,REJECTED,Final QC,Overall Product Failure
+20:49:03,895,REWORKED,Fill QC,Overfilled Bottle
+20:49:08,895,SHIPPED,Shipped,Success
+20:49:12,896,REWORKED,Cap QC,Loose Cap
+20:49:16,896,SHIPPED,Shipped,Success
+20:49:23,897,SHIPPED,Shipped,Success
+20:49:30,898,SHIPPED,Shipped,Success
+20:49:35,899,REWORKED,Label QC,Crooked Label
+20:49:38,899,SHIPPED,Shipped,Success
+20:49:45,900,SHIPPED,Shipped,Success
+20:49:51,901,REWORKED,Label QC,Missing Label
+20:49:52,901,REWORKED,Label QC,Crooked Label
+20:49:55,901,SHIPPED,Shipped,Success
+20:50:02,902,SHIPPED,Shipped,Success
+20:50:03,903,REWORKED,Bottle QC,Deformed Bottle
+20:50:05,903,REWORKED,Fill QC,Underfilled Bottle
+20:50:08,903,REWORKED,Cap QC,Missing Cap
+20:50:10,903,REWORKED,Label QC,Missing Label
+20:50:13,903,SHIPPED,Shipped,Success
+20:50:18,904,REWORKED,Label QC,Missing Label
+20:50:21,904,SHIPPED,Shipped,Success
+20:50:28,905,SHIPPED,Shipped,Success
+20:50:35,906,SHIPPED,Shipped,Success
+20:50:42,907,SHIPPED,Shipped,Success
+20:50:49,908,SHIPPED,Shipped,Success
+20:50:56,909,SHIPPED,Shipped,Success
+20:51:03,910,SHIPPED,Shipped,Success
+20:51:05,911,REWORKED,Bottle QC,Cracked Bottle
+20:51:11,911,SHIPPED,Shipped,Success
+20:51:18,912,SHIPPED,Shipped,Success
+20:51:22,913,REWORKED,Cap QC,Missing Cap
+20:51:27,913,SHIPPED,Shipped,Success
+20:51:29,914,REWORKED,Fill QC,Underfilled Bottle
+20:51:35,914,SHIPPED,Shipped,Success
+20:51:40,915,REWORKED,Label QC,Missing Label
+20:51:43,915,SHIPPED,Shipped,Success
+20:51:50,916,SHIPPED,Shipped,Success
+20:51:57,917,SHIPPED,Shipped,Success
+20:52:00,918,REWORKED,Fill QC,Overfilled Bottle
+20:52:01,918,REWORKED,Fill QC,Underfilled Bottle
+20:52:06,918,SHIPPED,Shipped,Success
+20:52:13,919,SHIPPED,Shipped,Success
+20:52:15,920,REWORKED,Bottle QC,Cracked Bottle
+20:52:21,920,SHIPPED,Shipped,Success
+20:52:24,921,REWORKED,Fill QC,Overfilled Bottle
+20:52:30,921,SHIPPED,Shipped,Success
+20:52:37,922,SHIPPED,Shipped,Success
+20:52:42,923,REJECTED,Final QC,Overall Product Failure
+20:52:44,924,REWORKED,Bottle QC,Deformed Bottle
+20:52:47,924,REWORKED,Cap QC,Loose Cap
+20:52:52,924,SHIPPED,Shipped,Success
+20:52:59,925,SHIPPED,Shipped,Success
+20:53:06,926,SHIPPED,Shipped,Success
+20:53:13,927,SHIPPED,Shipped,Success
+20:53:20,928,SHIPPED,Shipped,Success
+20:53:24,929,REWORKED,Cap QC,Missing Cap
+20:53:28,929,SHIPPED,Shipped,Success
+20:53:35,930,SHIPPED,Shipped,Success
+20:53:39,931,REWORKED,Cap QC,Missing Cap
+20:53:43,931,SHIPPED,Shipped,Success
+20:53:45,932,REWORKED,Bottle QC,Deformed Bottle
+20:53:51,932,SHIPPED,Shipped,Success
+20:53:58,933,SHIPPED,Shipped,Success
+20:54:05,934,SHIPPED,Shipped,Success
+20:54:12,935,SHIPPED,Shipped,Success
+20:54:15,936,REWORKED,Fill QC,Underfilled Bottle
+20:54:21,936,SHIPPED,Shipped,Success
+20:54:23,937,REWORKED,Fill QC,Overfilled Bottle
+20:54:26,937,REWORKED,Cap QC,Loose Cap
+20:54:30,937,SHIPPED,Shipped,Success
+20:54:37,938,SHIPPED,Shipped,Success
+20:54:44,939,SHIPPED,Shipped,Success
+20:54:51,940,SHIPPED,Shipped,Success
+20:54:56,941,REJECTED,Final QC,Contamination
+20:55:04,942,SHIPPED,Shipped,Success
+20:55:06,943,REWORKED,Fill QC,Overfilled Bottle
+20:55:12,943,SHIPPED,Shipped,Success
+20:55:19,944,SHIPPED,Shipped,Success
+20:55:20,945,REWORKED,Bottle QC,Deformed Bottle
+20:55:27,945,SHIPPED,Shipped,Success
+20:55:34,946,SHIPPED,Shipped,Success
+20:55:35,947,REWORKED,Bottle QC,Cracked Bottle
+20:55:42,947,SHIPPED,Shipped,Success
+20:55:49,948,SHIPPED,Shipped,Success
+20:55:56,949,SHIPPED,Shipped,Success
+20:56:03,950,SHIPPED,Shipped,Success
+20:56:10,951,SHIPPED,Shipped,Success
+20:56:13,952,REWORKED,Fill QC,Overfilled Bottle
+20:56:18,952,SHIPPED,Shipped,Success
+20:56:25,953,SHIPPED,Shipped,Success
+20:56:32,954,SHIPPED,Shipped,Success
+20:56:34,955,REWORKED,Bottle QC,Cracked Bottle
+20:56:41,955,SHIPPED,Shipped,Success
+20:56:48,956,SHIPPED,Shipped,Success
+20:56:53,957,REWORKED,Label QC,Crooked Label
+20:56:56,957,SHIPPED,Shipped,Success
+20:57:01,958,REWORKED,Label QC,Missing Label
+20:57:04,958,SHIPPED,Shipped,Success
+20:57:11,959,SHIPPED,Shipped,Success
+20:57:18,960,SHIPPED,Shipped,Success
+20:57:23,961,REWORKED,Label QC,Crooked Label
+20:57:26,961,SHIPPED,Shipped,Success
+20:57:33,962,SHIPPED,Shipped,Success
+20:57:37,963,REWORKED,Cap QC,Loose Cap
+20:57:39,963,REWORKED,Label QC,Crooked Label
+20:57:42,963,SHIPPED,Shipped,Success
+20:57:46,964,REWORKED,Cap QC,Missing Cap
+20:57:49,964,REJECTED,Final QC,Contamination
+20:57:56,965,SHIPPED,Shipped,Success
+20:58:03,966,SHIPPED,Shipped,Success
+20:58:07,967,REWORKED,Cap QC,Loose Cap
+20:58:11,967,SHIPPED,Shipped,Success
+20:58:18,968,SHIPPED,Shipped,Success
+20:58:25,969,SHIPPED,Shipped,Success
+20:58:27,970,REWORKED,Bottle QC,Cracked Bottle
+20:58:32,970,REJECTED,Final QC,Contamination
+20:58:39,971,SHIPPED,Shipped,Success
+20:58:43,972,REWORKED,Cap QC,Loose Cap
+20:58:48,972,SHIPPED,Shipped,Success
+20:58:55,973,SHIPPED,Shipped,Success
+20:59:00,974,REJECTED,Final QC,Contamination
+20:59:08,975,SHIPPED,Shipped,Success
+20:59:15,976,SHIPPED,Shipped,Success
+20:59:16,977,REWORKED,Bottle QC,Cracked Bottle
+20:59:23,977,SHIPPED,Shipped,Success
+20:59:30,978,SHIPPED,Shipped,Success
+20:59:37,979,SHIPPED,Shipped,Success
+20:59:38,980,REWORKED,Bottle QC,Cracked Bottle
+20:59:45,980,SHIPPED,Shipped,Success
+20:59:52,981,SHIPPED,Shipped,Success
+20:59:55,982,REWORKED,Fill QC,Overfilled Bottle
+21:00:00,982,SHIPPED,Shipped,Success
+21:00:07,983,SHIPPED,Shipped,Success
+21:00:14,984,SHIPPED,Shipped,Success
+21:00:21,985,SHIPPED,Shipped,Success
+21:00:28,986,SHIPPED,Shipped,Success
+21:00:34,987,REJECTED,Final QC,Contamination
+21:00:37,988,REWORKED,Fill QC,Overfilled Bottle
+21:00:42,988,SHIPPED,Shipped,Success
+21:00:44,989,REWORKED,Bottle QC,Deformed Bottle
+21:00:46,989,REWORKED,Fill QC,Overfilled Bottle
+21:00:50,989,REJECTED,Final QC,Overall Product Failure
+21:00:53,990,REWORKED,Fill QC,Overfilled Bottle
+21:00:59,990,SHIPPED,Shipped,Success
+21:01:06,991,SHIPPED,Shipped,Success
+21:01:13,992,SHIPPED,Shipped,Success
+21:01:20,993,SHIPPED,Shipped,Success
+21:01:27,994,SHIPPED,Shipped,Success
+21:01:34,995,SHIPPED,Shipped,Success
+21:01:41,996,SHIPPED,Shipped,Success
+21:01:48,997,SHIPPED,Shipped,Success
+21:01:55,998,SHIPPED,Shipped,Success
+21:02:02,999,SHIPPED,Shipped,Success
+21:02:07,1000,REWORKED,Label QC,Crooked Label
+21:02:10,1000,SHIPPED,Shipped,Success
+21:02:17,1001,SHIPPED,Shipped,Success
+21:02:24,1002,SHIPPED,Shipped,Success
+21:02:31,1003,SHIPPED,Shipped,Success
+21:02:38,1004,SHIPPED,Shipped,Success
+21:02:45,1005,SHIPPED,Shipped,Success
+21:02:49,1006,REWORKED,Cap QC,Loose Cap
+21:02:53,1006,SHIPPED,Shipped,Success
+21:03:00,1007,SHIPPED,Shipped,Success
+21:03:07,1008,SHIPPED,Shipped,Success
+21:03:10,1009,REWORKED,Fill QC,Overfilled Bottle
+21:03:15,1009,SHIPPED,Shipped,Success
+21:03:22,1010,SHIPPED,Shipped,Success
+21:03:29,1011,SHIPPED,Shipped,Success
+21:03:37,1012,SHIPPED,Shipped,Success
+21:03:44,1013,SHIPPED,Shipped,Success
+21:03:51,1014,SHIPPED,Shipped,Success
+21:03:56,1015,REJECTED,Final QC,Contamination
+21:04:04,1016,SHIPPED,Shipped,Success
+21:04:09,1017,REJECTED,Final QC,Overall Product Failure
+21:04:17,1018,SHIPPED,Shipped,Success
+21:04:18,1019,REWORKED,Bottle QC,Deformed Bottle
+21:04:25,1019,SHIPPED,Shipped,Success
+21:04:32,1020,SHIPPED,Shipped,Success
+21:04:39,1021,SHIPPED,Shipped,Success
+21:04:46,1022,SHIPPED,Shipped,Success
+21:04:53,1023,SHIPPED,Shipped,Success
+21:05:00,1024,SHIPPED,Shipped,Success
+21:05:07,1025,SHIPPED,Shipped,Success
+21:05:08,1026,REWORKED,Bottle QC,Cracked Bottle
+21:05:12,1026,REWORKED,Cap QC,Loose Cap
+21:05:15,1026,REJECTED,Final QC,Contamination
+21:05:20,1027,REWORKED,Label QC,Missing Label
+21:05:22,1027,REJECTED,Final QC,Overall Product Failure
+21:05:29,1028,SHIPPED,Shipped,Success
+21:05:36,1029,SHIPPED,Shipped,Success
+21:05:37,1030,REWORKED,Bottle QC,Deformed Bottle
+21:05:44,1030,SHIPPED,Shipped,Success
+21:05:46,1031,REWORKED,Bottle QC,Cracked Bottle
+21:05:51,1031,REJECTED,Final QC,Overall Product Failure
+21:05:58,1032,SHIPPED,Shipped,Success
+21:06:05,1033,SHIPPED,Shipped,Success
+21:06:12,1034,SHIPPED,Shipped,Success
+21:06:19,1035,SHIPPED,Shipped,Success
+21:06:26,1036,SHIPPED,Shipped,Success
+21:06:33,1037,SHIPPED,Shipped,Success
+21:06:37,1038,REWORKED,Cap QC,Missing Cap
+21:06:42,1038,SHIPPED,Shipped,Success
+21:06:49,1039,SHIPPED,Shipped,Success
+21:06:56,1040,SHIPPED,Shipped,Success
+21:07:01,1041,REJECTED,Final QC,Contamination
+21:07:09,1042,SHIPPED,Shipped,Success
+21:07:16,1043,SHIPPED,Shipped,Success
+21:07:23,1044,SHIPPED,Shipped,Success
+21:07:30,1045,SHIPPED,Shipped,Success
+21:07:37,1046,SHIPPED,Shipped,Success
+21:07:41,1047,REWORKED,Cap QC,Missing Cap
+21:07:43,1047,REWORKED,Label QC,Crooked Label
+21:07:46,1047,SHIPPED,Shipped,Success
+21:07:47,1048,REWORKED,Bottle QC,Deformed Bottle
+21:07:54,1048,SHIPPED,Shipped,Success
+21:07:56,1049,REWORKED,Bottle QC,Cracked Bottle
+21:08:00,1049,REWORKED,Label QC,Missing Label
+21:08:04,1049,SHIPPED,Shipped,Success
+21:08:05,1050,REWORKED,Bottle QC,Cracked Bottle
+21:08:12,1050,SHIPPED,Shipped,Success
+21:08:19,1051,SHIPPED,Shipped,Success
+21:08:21,1052,REWORKED,Fill QC,Overfilled Bottle
+21:08:27,1052,SHIPPED,Shipped,Success
+21:08:34,1053,SHIPPED,Shipped,Success
+21:08:40,1054,REJECTED,Final QC,Overall Product Failure
+21:08:44,1055,REWORKED,Cap QC,Loose Cap
+21:08:48,1055,SHIPPED,Shipped,Success
+21:08:55,1056,SHIPPED,Shipped,Success
+21:09:02,1057,SHIPPED,Shipped,Success
+21:09:03,1058,REWORKED,Bottle QC,Cracked Bottle
+21:09:10,1058,SHIPPED,Shipped,Success
+21:09:17,1059,SHIPPED,Shipped,Success
+21:09:24,1060,SHIPPED,Shipped,Success
+21:09:31,1061,SHIPPED,Shipped,Success
+21:09:38,1062,SHIPPED,Shipped,Success
+21:09:45,1063,SHIPPED,Shipped,Success
+21:09:48,1064,REWORKED,Fill QC,Underfilled Bottle
+21:09:54,1064,SHIPPED,Shipped,Success
+21:10:01,1065,SHIPPED,Shipped,Success
+21:10:08,1066,SHIPPED,Shipped,Success
+21:10:15,1067,SHIPPED,Shipped,Success
+21:10:22,1068,SHIPPED,Shipped,Success
+21:10:27,1069,REWORKED,Label QC,Crooked Label
+21:10:30,1069,SHIPPED,Shipped,Success
+21:10:37,1070,SHIPPED,Shipped,Success
+21:10:44,1071,SHIPPED,Shipped,Success
+21:10:49,1072,REWORKED,Label QC,Crooked Label
+21:10:51,1072,REJECTED,Final QC,Contamination
+21:10:58,1073,SHIPPED,Shipped,Success
+21:11:05,1074,SHIPPED,Shipped,Success
+21:11:12,1075,SHIPPED,Shipped,Success
+21:11:19,1076,SHIPPED,Shipped,Success
+21:11:26,1077,SHIPPED,Shipped,Success
+21:11:30,1078,REWORKED,Cap QC,Loose Cap
+21:11:34,1078,SHIPPED,Shipped,Success
+21:11:41,1079,SHIPPED,Shipped,Success
+21:11:47,1080,REJECTED,Final QC,Contamination
+21:11:53,1081,REJECTED,Final QC,Contamination
+21:12:00,1082,SHIPPED,Shipped,Success
+21:12:07,1083,SHIPPED,Shipped,Success
+21:12:14,1084,SHIPPED,Shipped,Success
+21:12:17,1085,REWORKED,Fill QC,Overfilled Bottle
+21:12:23,1085,SHIPPED,Shipped,Success
+21:12:30,1086,SHIPPED,Shipped,Success
+21:12:37,1087,SHIPPED,Shipped,Success
+21:12:44,1088,SHIPPED,Shipped,Success
+21:12:46,1089,REWORKED,Fill QC,Underfilled Bottle
+21:12:52,1089,SHIPPED,Shipped,Success
+21:12:55,1090,REWORKED,Fill QC,Underfilled Bottle
+21:12:59,1090,REJECTED,Final QC,Contamination
+21:13:00,1091,REWORKED,Bottle QC,Deformed Bottle
+21:13:07,1091,SHIPPED,Shipped,Success
+21:13:14,1092,SHIPPED,Shipped,Success
+21:13:21,1093,SHIPPED,Shipped,Success
+21:13:28,1094,SHIPPED,Shipped,Success
+21:13:35,1095,SHIPPED,Shipped,Success
+21:13:39,1096,REWORKED,Cap QC,Missing Cap
+21:13:43,1096,SHIPPED,Shipped,Success
+21:13:45,1097,REWORKED,Bottle QC,Cracked Bottle
+21:13:52,1097,SHIPPED,Shipped,Success
+21:13:53,1098,REWORKED,Bottle QC,Cracked Bottle
+21:14:00,1098,SHIPPED,Shipped,Success
+21:14:06,1099,REJECTED,Final QC,Overall Product Failure
+21:14:13,1100,SHIPPED,Shipped,Success
+21:14:20,1101,SHIPPED,Shipped,Success
+21:14:27,1102,SHIPPED,Shipped,Success
+21:14:31,1103,REWORKED,Cap QC,Loose Cap
+21:14:34,1103,REWORKED,Label QC,Missing Label
+21:14:37,1103,SHIPPED,Shipped,Success
+21:14:38,1104,REWORKED,Bottle QC,Cracked Bottle
+21:14:45,1104,SHIPPED,Shipped,Success
+21:14:52,1105,SHIPPED,Shipped,Success
+21:14:54,1106,REWORKED,Fill QC,Underfilled Bottle
+21:14:57,1106,REWORKED,Cap QC,Loose Cap
+21:15:01,1106,SHIPPED,Shipped,Success
+21:15:08,1107,SHIPPED,Shipped,Success
+21:15:15,1108,SHIPPED,Shipped,Success
+21:15:22,1109,SHIPPED,Shipped,Success
+21:15:24,1110,REWORKED,Bottle QC,Deformed Bottle
+21:15:31,1110,SHIPPED,Shipped,Success
+21:15:38,1111,SHIPPED,Shipped,Success
+21:15:40,1112,REWORKED,Fill QC,Underfilled Bottle
+21:15:43,1112,REWORKED,Cap QC,Missing Cap
+21:15:47,1112,SHIPPED,Shipped,Success
+21:15:54,1113,SHIPPED,Shipped,Success
+21:16:00,1114,REJECTED,Final QC,Contamination
+21:16:01,1115,REWORKED,Bottle QC,Cracked Bottle
+21:16:05,1115,REWORKED,Cap QC,Missing Cap
+21:16:07,1115,REWORKED,Label QC,Missing Label
+21:16:10,1115,SHIPPED,Shipped,Success
+21:16:12,1116,REWORKED,Bottle QC,Deformed Bottle
+21:16:15,1116,REWORKED,Cap QC,Missing Cap
+21:16:18,1116,REJECTED,Final QC,Overall Product Failure
+21:16:26,1117,SHIPPED,Shipped,Success
+21:16:33,1118,SHIPPED,Shipped,Success
+21:16:40,1119,SHIPPED,Shipped,Success
+21:16:42,1120,REWORKED,Fill QC,Overfilled Bottle
+21:16:47,1120,REJECTED,Final QC,Contamination
+21:16:48,1121,REWORKED,Bottle QC,Deformed Bottle
+21:16:54,1121,REJECTED,Final QC,Contamination
+21:17:01,1122,SHIPPED,Shipped,Success
+21:17:07,1123,REJECTED,Final QC,Contamination
+21:17:14,1124,SHIPPED,Shipped,Success
+21:17:21,1125,SHIPPED,Shipped,Success
+21:17:28,1126,SHIPPED,Shipped,Success
+21:17:31,1127,REWORKED,Fill QC,Overfilled Bottle
+21:17:36,1127,SHIPPED,Shipped,Success
+21:17:43,1128,SHIPPED,Shipped,Success
+21:17:50,1129,SHIPPED,Shipped,Success
+21:17:52,1130,REWORKED,Bottle QC,Deformed Bottle
+21:17:54,1130,REWORKED,Fill QC,Underfilled Bottle
+21:18:00,1130,SHIPPED,Shipped,Success
+21:18:01,1131,REWORKED,Bottle QC,Deformed Bottle
+21:18:07,1131,REJECTED,Final QC,Contamination
+21:18:14,1132,SHIPPED,Shipped,Success
+21:18:21,1133,SHIPPED,Shipped,Success
+21:18:28,1134,SHIPPED,Shipped,Success
+21:18:35,1135,SHIPPED,Shipped,Success
+21:18:42,1136,SHIPPED,Shipped,Success
+21:18:49,1137,SHIPPED,Shipped,Success
+21:18:54,1138,REWORKED,Label QC,Crooked Label
+21:18:56,1138,REJECTED,Final QC,Contamination
+21:19:03,1139,SHIPPED,Shipped,Success
+21:19:10,1140,SHIPPED,Shipped,Success
+21:19:15,1141,REWORKED,Label QC,Crooked Label
+21:19:18,1141,SHIPPED,Shipped,Success
+21:19:22,1142,REWORKED,Cap QC,Loose Cap
+21:19:27,1142,SHIPPED,Shipped,Success
+21:19:34,1143,SHIPPED,Shipped,Success
+21:19:41,1144,SHIPPED,Shipped,Success
+21:19:48,1145,SHIPPED,Shipped,Success
+21:19:49,1146,REWORKED,Bottle QC,Cracked Bottle
+21:19:56,1146,SHIPPED,Shipped,Success
+21:19:59,1147,REWORKED,Fill QC,Overfilled Bottle
+21:20:04,1147,SHIPPED,Shipped,Success
+21:20:11,1148,SHIPPED,Shipped,Success
+21:20:18,1149,SHIPPED,Shipped,Success
+21:20:25,1150,SHIPPED,Shipped,Success
+21:20:32,1151,SHIPPED,Shipped,Success
+21:20:34,1152,REWORKED,Bottle QC,Cracked Bottle
+21:20:40,1152,SHIPPED,Shipped,Success
+21:20:47,1153,SHIPPED,Shipped,Success
+21:20:53,1154,REJECTED,Final QC,Contamination
+21:20:59,1155,REJECTED,Final QC,Overall Product Failure
+21:21:06,1156,SHIPPED,Shipped,Success
+21:21:11,1157,REWORKED,Label QC,Missing Label
+21:21:13,1157,REJECTED,Final QC,Overall Product Failure
+21:21:20,1158,SHIPPED,Shipped,Success
+21:21:28,1159,SHIPPED,Shipped,Success
+21:21:30,1160,REWORKED,Fill QC,Underfilled Bottle
+21:21:33,1160,REWORKED,Cap QC,Missing Cap
+21:21:36,1160,REJECTED,Final QC,Contamination
+21:21:43,1161,SHIPPED,Shipped,Success
+21:21:49,1162,REJECTED,Final QC,Overall Product Failure
+21:21:50,1163,REWORKED,Bottle QC,Cracked Bottle
+21:21:51,1163,REWORKED,Bottle QC,Cracked Bottle
+21:21:54,1163,REWORKED,Fill QC,Overfilled Bottle
+21:21:57,1163,REWORKED,Label QC,Missing Label
+21:22:00,1163,SHIPPED,Shipped,Success
+21:22:07,1164,SHIPPED,Shipped,Success
+21:22:14,1165,SHIPPED,Shipped,Success
+21:22:21,1166,SHIPPED,Shipped,Success
+21:22:25,1167,REWORKED,Cap QC,Missing Cap
+21:22:28,1167,REWORKED,Label QC,Crooked Label
+21:22:31,1167,SHIPPED,Shipped,Success
+21:22:38,1168,SHIPPED,Shipped,Success
+21:22:45,1169,SHIPPED,Shipped,Success
+21:22:49,1170,REWORKED,Cap QC,Loose Cap
+21:22:53,1170,SHIPPED,Shipped,Success
+21:23:00,1171,SHIPPED,Shipped,Success
+21:23:07,1172,SHIPPED,Shipped,Success
+21:23:12,1173,REWORKED,Label QC,Crooked Label
+21:23:15,1173,SHIPPED,Shipped,Success
+21:23:22,1174,SHIPPED,Shipped,Success
+21:23:29,1175,SHIPPED,Shipped,Success
+21:23:35,1176,REJECTED,Final QC,Overall Product Failure
+21:23:43,1177,SHIPPED,Shipped,Success
+21:23:50,1178,SHIPPED,Shipped,Success
+21:23:51,1179,REWORKED,Bottle QC,Deformed Bottle
+21:23:58,1179,SHIPPED,Shipped,Success
+21:24:05,1180,SHIPPED,Shipped,Success
+21:24:12,1181,SHIPPED,Shipped,Success
+21:24:19,1182,SHIPPED,Shipped,Success
+21:24:20,1183,REWORKED,Bottle QC,Cracked Bottle
+21:24:27,1183,SHIPPED,Shipped,Success
+21:24:30,1184,REWORKED,Fill QC,Overfilled Bottle
+21:24:35,1184,SHIPPED,Shipped,Success
+21:24:42,1185,SHIPPED,Shipped,Success
+21:24:45,1186,REWORKED,Fill QC,Underfilled Bottle
+21:24:50,1186,SHIPPED,Shipped,Success
+21:24:52,1187,REWORKED,Bottle QC,Cracked Bottle
+21:24:58,1187,SHIPPED,Shipped,Success
+21:25:06,1188,SHIPPED,Shipped,Success
+21:25:09,1189,REWORKED,Cap QC,Loose Cap
+21:25:14,1189,SHIPPED,Shipped,Success
+21:25:21,1190,SHIPPED,Shipped,Success
+21:25:28,1191,SHIPPED,Shipped,Success
+21:25:35,1192,SHIPPED,Shipped,Success
+21:25:41,1193,REJECTED,Final QC,Contamination
+21:25:43,1194,REWORKED,Fill QC,Overfilled Bottle
+21:25:49,1194,SHIPPED,Shipped,Success
+21:25:56,1195,SHIPPED,Shipped,Success
+21:26:01,1196,REWORKED,Label QC,Crooked Label
+21:26:04,1196,SHIPPED,Shipped,Success
+21:26:07,1197,REWORKED,Fill QC,Underfilled Bottle
+21:26:12,1197,SHIPPED,Shipped,Success
+21:26:19,1198,SHIPPED,Shipped,Success
+21:26:21,1199,REWORKED,Bottle QC,Cracked Bottle
+21:26:24,1199,REWORKED,Cap QC,Missing Cap
+21:26:29,1199,SHIPPED,Shipped,Success
+21:26:30,1200,REWORKED,Bottle QC,Cracked Bottle
+21:26:35,1200,REWORKED,Label QC,Crooked Label
+21:26:38,1200,SHIPPED,Shipped,Success
+21:26:45,1201,SHIPPED,Shipped,Success
+21:26:52,1202,SHIPPED,Shipped,Success
+21:26:59,1203,SHIPPED,Shipped,Success
+21:27:06,1204,SHIPPED,Shipped,Success
+21:27:13,1205,SHIPPED,Shipped,Success
+21:27:20,1206,SHIPPED,Shipped,Success
+21:27:27,1207,SHIPPED,Shipped,Success
+21:27:34,1208,SHIPPED,Shipped,Success
+21:27:41,1209,SHIPPED,Shipped,Success
+21:27:46,1210,REWORKED,Label QC,Missing Label
+21:27:49,1210,SHIPPED,Shipped,Success
+21:27:56,1211,SHIPPED,Shipped,Success
+21:28:02,1212,REWORKED,Label QC,Missing Label
+21:28:03,1212,REWORKED,Label QC,Crooked Label
+21:28:06,1212,SHIPPED,Shipped,Success
+21:28:13,1213,SHIPPED,Shipped,Success
+21:28:20,1214,SHIPPED,Shipped,Success
+21:28:27,1215,SHIPPED,Shipped,Success
+21:28:34,1216,SHIPPED,Shipped,Success
+21:28:41,1217,SHIPPED,Shipped,Success
+21:28:44,1218,REWORKED,Fill QC,Overfilled Bottle
+21:28:47,1218,REWORKED,Label QC,Crooked Label
+21:28:50,1218,SHIPPED,Shipped,Success
+21:28:57,1219,SHIPPED,Shipped,Success
+21:29:00,1220,REWORKED,Fill QC,Underfilled Bottle
+21:29:01,1220,REWORKED,Fill QC,Underfilled Bottle
+21:29:02,1220,REWORKED,Fill QC,Overfilled Bottle
+21:29:08,1220,SHIPPED,Shipped,Success
+21:29:15,1221,SHIPPED,Shipped,Success
+21:29:22,1222,SHIPPED,Shipped,Success
+21:29:25,1223,REWORKED,Fill QC,Overfilled Bottle
+21:29:30,1223,SHIPPED,Shipped,Success
+21:29:37,1224,SHIPPED,Shipped,Success
+21:29:41,1225,REWORKED,Cap QC,Missing Cap
+21:29:46,1225,SHIPPED,Shipped,Success
+21:29:51,1226,REWORKED,Label QC,Missing Label
+21:29:54,1226,SHIPPED,Shipped,Success
+21:29:59,1227,REWORKED,Label QC,Crooked Label
+21:30:00,1227,REWORKED,Label QC,Crooked Label
+21:30:03,1227,SHIPPED,Shipped,Success
+21:30:09,1228,REJECTED,Final QC,Contamination
+21:30:14,1229,REWORKED,Label QC,Missing Label
+21:30:17,1229,SHIPPED,Shipped,Success
+21:30:25,1230,SHIPPED,Shipped,Success
+21:30:32,1231,SHIPPED,Shipped,Success
+21:30:39,1232,SHIPPED,Shipped,Success
+21:30:44,1233,REWORKED,Label QC,Missing Label
+21:30:47,1233,SHIPPED,Shipped,Success
+21:30:52,1234,REWORKED,Label QC,Missing Label
+21:30:55,1234,SHIPPED,Shipped,Success
+21:30:56,1235,REWORKED,Bottle QC,Deformed Bottle
+21:31:01,1235,REWORKED,Label QC,Crooked Label
+21:31:04,1235,SHIPPED,Shipped,Success
+21:31:10,1236,REJECTED,Final QC,Contamination
+21:31:12,1237,REWORKED,Bottle QC,Cracked Bottle
+21:31:18,1237,SHIPPED,Shipped,Success
+21:31:25,1238,SHIPPED,Shipped,Success
+21:31:33,1239,SHIPPED,Shipped,Success
+21:31:40,1240,SHIPPED,Shipped,Success
+21:31:42,1241,REWORKED,Fill QC,Overfilled Bottle
+21:31:48,1241,SHIPPED,Shipped,Success
+21:31:55,1242,SHIPPED,Shipped,Success
+21:32:02,1243,SHIPPED,Shipped,Success
+21:32:09,1244,SHIPPED,Shipped,Success
+21:32:16,1245,SHIPPED,Shipped,Success
+21:32:17,1246,REWORKED,Bottle QC,Cracked Bottle
+21:32:24,1246,SHIPPED,Shipped,Success
+21:32:31,1247,SHIPPED,Shipped,Success
+21:32:38,1248,SHIPPED,Shipped,Success
+21:32:40,1249,REWORKED,Bottle QC,Deformed Bottle
+21:32:47,1249,SHIPPED,Shipped,Success
+21:32:52,1250,REWORKED,Label QC,Missing Label
+21:32:55,1250,SHIPPED,Shipped,Success
+21:33:02,1251,SHIPPED,Shipped,Success
+21:33:06,1252,REWORKED,Cap QC,Loose Cap
+21:33:10,1252,SHIPPED,Shipped,Success
+21:33:17,1253,SHIPPED,Shipped,Success
+21:33:23,1254,REWORKED,Label QC,Missing Label
+21:33:24,1254,REWORKED,Label QC,Missing Label
+21:33:27,1254,SHIPPED,Shipped,Success
+21:33:34,1255,SHIPPED,Shipped,Success
+21:33:35,1256,REWORKED,Bottle QC,Cracked Bottle
+21:33:36,1256,REWORKED,Bottle QC,Deformed Bottle
+21:33:43,1256,SHIPPED,Shipped,Success
+21:33:47,1257,REWORKED,Cap QC,Missing Cap
+21:33:51,1257,SHIPPED,Shipped,Success
+21:33:58,1258,SHIPPED,Shipped,Success
+21:34:04,1259,REJECTED,Final QC,Overall Product Failure
+21:34:11,1260,SHIPPED,Shipped,Success
+21:34:13,1261,REWORKED,Bottle QC,Cracked Bottle
+21:34:18,1261,REJECTED,Final QC,Contamination
+21:34:21,1262,REWORKED,Fill QC,Overfilled Bottle
+21:34:27,1262,SHIPPED,Shipped,Success
+21:34:32,1263,REWORKED,Label QC,Missing Label
+21:34:35,1263,SHIPPED,Shipped,Success
+21:34:42,1264,SHIPPED,Shipped,Success
+21:34:46,1265,REWORKED,Cap QC,Missing Cap
+21:34:50,1265,SHIPPED,Shipped,Success
+21:34:57,1266,SHIPPED,Shipped,Success
+21:35:00,1267,REWORKED,Fill QC,Underfilled Bottle
+21:35:05,1267,SHIPPED,Shipped,Success
+21:35:11,1268,REWORKED,Label QC,Missing Label
+21:35:14,1268,SHIPPED,Shipped,Success
+21:35:16,1269,REWORKED,Fill QC,Underfilled Bottle
+21:35:19,1269,REWORKED,Cap QC,Missing Cap
+21:35:23,1269,SHIPPED,Shipped,Success
+21:35:26,1270,REWORKED,Fill QC,Overfilled Bottle
+21:35:31,1270,SHIPPED,Shipped,Success
+21:35:38,1271,SHIPPED,Shipped,Success
+21:35:45,1272,SHIPPED,Shipped,Success
+21:35:47,1273,REWORKED,Bottle QC,Cracked Bottle
+21:35:53,1273,SHIPPED,Shipped,Success
+21:36:01,1274,SHIPPED,Shipped,Success
+21:36:04,1275,REWORKED,Cap QC,Loose Cap
+21:36:09,1275,SHIPPED,Shipped,Success
+21:36:16,1276,SHIPPED,Shipped,Success
+21:36:23,1277,SHIPPED,Shipped,Success
+21:36:30,1278,SHIPPED,Shipped,Success
+21:36:31,1279,REWORKED,Bottle QC,Deformed Bottle
+21:36:38,1279,SHIPPED,Shipped,Success
+21:36:42,1280,REWORKED,Cap QC,Missing Cap
+21:36:46,1280,SHIPPED,Shipped,Success
+21:36:54,1281,SHIPPED,Shipped,Success
+21:37:01,1282,SHIPPED,Shipped,Success
+21:37:08,1283,SHIPPED,Shipped,Success
+21:37:10,1284,REWORKED,Fill QC,Underfilled Bottle
+21:37:16,1284,SHIPPED,Shipped,Success
+21:37:23,1285,SHIPPED,Shipped,Success
+21:37:28,1286,REWORKED,Label QC,Crooked Label
+21:37:31,1286,SHIPPED,Shipped,Success
+21:37:34,1287,REWORKED,Fill QC,Overfilled Bottle
+21:37:39,1287,SHIPPED,Shipped,Success
+21:37:42,1288,REWORKED,Fill QC,Underfilled Bottle
+21:37:48,1288,SHIPPED,Shipped,Success
+21:37:53,1289,REJECTED,Final QC,Contamination
+21:38:01,1290,SHIPPED,Shipped,Success
+21:38:02,1291,REWORKED,Bottle QC,Deformed Bottle
+21:38:09,1291,SHIPPED,Shipped,Success
+21:38:16,1292,SHIPPED,Shipped,Success
+21:38:17,1293,REWORKED,Bottle QC,Cracked Bottle
+21:38:24,1293,SHIPPED,Shipped,Success
+21:38:31,1294,SHIPPED,Shipped,Success
+21:38:38,1295,SHIPPED,Shipped,Success
+21:38:45,1296,SHIPPED,Shipped,Success
+21:38:53,1297,SHIPPED,Shipped,Success
+21:38:56,1298,REWORKED,Cap QC,Missing Cap
+21:39:01,1298,SHIPPED,Shipped,Success
+21:39:08,1299,SHIPPED,Shipped,Success
+21:39:13,1300,REWORKED,Label QC,Missing Label
+21:39:16,1300,SHIPPED,Shipped,Success
+21:39:22,1301,REJECTED,Final QC,Contamination
+21:39:28,1302,REJECTED,Final QC,Contamination
+21:39:35,1303,SHIPPED,Shipped,Success
+21:39:42,1304,SHIPPED,Shipped,Success
+21:39:49,1305,SHIPPED,Shipped,Success
+21:39:56,1306,SHIPPED,Shipped,Success
+21:40:02,1307,REWORKED,Label QC,Missing Label
+21:40:05,1307,SHIPPED,Shipped,Success
+21:40:12,1308,SHIPPED,Shipped,Success
+21:40:19,1309,SHIPPED,Shipped,Success
+21:40:26,1310,SHIPPED,Shipped,Success
+21:40:33,1311,SHIPPED,Shipped,Success
+21:40:40,1312,SHIPPED,Shipped,Success
+21:40:46,1313,REJECTED,Final QC,Overall Product Failure
+21:40:49,1314,REWORKED,Fill QC,Underfilled Bottle
+21:40:51,1314,REWORKED,Cap QC,Missing Cap
+21:40:55,1314,SHIPPED,Shipped,Success
+21:41:03,1315,SHIPPED,Shipped,Success
+21:41:10,1316,SHIPPED,Shipped,Success
+21:41:12,1317,REWORKED,Fill QC,Overfilled Bottle
+21:41:18,1317,SHIPPED,Shipped,Success
+21:41:25,1318,SHIPPED,Shipped,Success
+21:41:32,1319,SHIPPED,Shipped,Success
+21:41:39,1320,SHIPPED,Shipped,Success
+21:41:46,1321,SHIPPED,Shipped,Success
+21:41:49,1322,REWORKED,Fill QC,Overfilled Bottle
+21:41:51,1322,REWORKED,Cap QC,Loose Cap
+21:41:54,1322,REJECTED,Final QC,Contamination
+21:42:02,1323,SHIPPED,Shipped,Success
+21:42:03,1324,REWORKED,Bottle QC,Cracked Bottle
+21:42:10,1324,SHIPPED,Shipped,Success
+21:42:17,1325,SHIPPED,Shipped,Success
+21:42:24,1326,SHIPPED,Shipped,Success
+21:42:27,1327,REWORKED,Fill QC,Overfilled Bottle
+21:42:32,1327,SHIPPED,Shipped,Success
+21:42:36,1328,REWORKED,Cap QC,Missing Cap
+21:42:41,1328,SHIPPED,Shipped,Success
+21:42:48,1329,SHIPPED,Shipped,Success
+21:42:50,1330,REWORKED,Fill QC,Underfilled Bottle
+21:42:56,1330,SHIPPED,Shipped,Success
+21:43:03,1331,SHIPPED,Shipped,Success
+21:43:10,1332,SHIPPED,Shipped,Success
+21:43:12,1333,REWORKED,Bottle QC,Deformed Bottle
+21:43:17,1333,REJECTED,Final QC,Contamination
+21:43:25,1334,SHIPPED,Shipped,Success
+21:43:32,1335,SHIPPED,Shipped,Success
+21:43:39,1336,SHIPPED,Shipped,Success
+21:43:46,1337,SHIPPED,Shipped,Success
+21:43:53,1338,SHIPPED,Shipped,Success
+21:44:00,1339,SHIPPED,Shipped,Success
+21:44:01,1340,REWORKED,Bottle QC,Deformed Bottle
+21:44:08,1340,SHIPPED,Shipped,Success
+21:44:15,1341,SHIPPED,Shipped,Success
+21:44:19,1342,REWORKED,Cap QC,Missing Cap
+21:44:20,1342,REWORKED,Cap QC,Missing Cap
+21:44:24,1342,SHIPPED,Shipped,Success
+21:44:32,1343,SHIPPED,Shipped,Success
+21:44:33,1344,REWORKED,Bottle QC,Deformed Bottle
+21:44:40,1344,SHIPPED,Shipped,Success
+21:44:47,1345,SHIPPED,Shipped,Success
+21:44:54,1346,SHIPPED,Shipped,Success
+21:45:01,1347,SHIPPED,Shipped,Success
+21:45:03,1348,REWORKED,Fill QC,Overfilled Bottle
+21:45:08,1348,REJECTED,Final QC,Contamination
+21:45:15,1349,SHIPPED,Shipped,Success
+21:45:22,1350,SHIPPED,Shipped,Success
+21:45:25,1351,REWORKED,Fill QC,Overfilled Bottle
+21:45:30,1351,SHIPPED,Shipped,Success
+21:45:37,1352,SHIPPED,Shipped,Success
+21:45:44,1353,SHIPPED,Shipped,Success
+21:45:46,1354,REWORKED,Bottle QC,Cracked Bottle
+21:45:47,1354,REWORKED,Bottle QC,Cracked Bottle
+21:45:51,1354,REWORKED,Cap QC,Missing Cap
+21:45:55,1354,SHIPPED,Shipped,Success
+21:46:02,1355,SHIPPED,Shipped,Success
+21:46:09,1356,SHIPPED,Shipped,Success
+21:46:16,1357,SHIPPED,Shipped,Success
+21:46:23,1358,SHIPPED,Shipped,Success
+21:46:30,1359,SHIPPED,Shipped,Success
+21:46:37,1360,SHIPPED,Shipped,Success
+21:46:44,1361,SHIPPED,Shipped,Success
+21:46:51,1362,SHIPPED,Shipped,Success
+21:46:57,1363,REWORKED,Label QC,Missing Label
+21:47:00,1363,SHIPPED,Shipped,Success
+21:47:01,1364,REWORKED,Bottle QC,Deformed Bottle
+21:47:08,1364,SHIPPED,Shipped,Success
+21:47:15,1365,SHIPPED,Shipped,Success
+21:47:22,1366,SHIPPED,Shipped,Success
+21:47:25,1367,REWORKED,Fill QC,Underfilled Bottle
+21:47:29,1367,REJECTED,Final QC,Overall Product Failure
+21:47:35,1368,REJECTED,Final QC,Overall Product Failure
+21:47:42,1369,SHIPPED,Shipped,Success
+21:47:45,1370,REWORKED,Fill QC,Underfilled Bottle
+21:47:50,1370,SHIPPED,Shipped,Success
+21:47:52,1371,REWORKED,Bottle QC,Deformed Bottle
+21:47:59,1371,SHIPPED,Shipped,Success
+21:48:06,1372,SHIPPED,Shipped,Success
+21:48:09,1373,REWORKED,Cap QC,Missing Cap
+21:48:14,1373,SHIPPED,Shipped,Success
+21:48:20,1374,REJECTED,Final QC,Overall Product Failure
+21:48:22,1375,REWORKED,Fill QC,Overfilled Bottle
+21:48:25,1375,REWORKED,Cap QC,Missing Cap
+21:48:27,1375,REWORKED,Label QC,Missing Label
+21:48:30,1375,SHIPPED,Shipped,Success
+21:48:37,1376,SHIPPED,Shipped,Success
+21:48:39,1377,REWORKED,Bottle QC,Cracked Bottle
+21:48:45,1377,SHIPPED,Shipped,Success
+21:48:53,1378,SHIPPED,Shipped,Success
+21:48:54,1379,REWORKED,Bottle QC,Deformed Bottle
+21:48:58,1379,REWORKED,Cap QC,Loose Cap
+21:49:00,1379,REWORKED,Label QC,Missing Label
+21:49:03,1379,SHIPPED,Shipped,Success
+21:49:10,1380,SHIPPED,Shipped,Success
+21:49:17,1381,SHIPPED,Shipped,Success
+21:49:20,1382,REWORKED,Fill QC,Overfilled Bottle
+21:49:25,1382,SHIPPED,Shipped,Success
+21:49:31,1383,REJECTED,Final QC,Contamination
+21:49:37,1384,REJECTED,Final QC,Overall Product Failure
+21:49:39,1385,REWORKED,Bottle QC,Cracked Bottle
+21:49:45,1385,SHIPPED,Shipped,Success
+21:49:52,1386,SHIPPED,Shipped,Success
+21:49:56,1387,REWORKED,Cap QC,Missing Cap
+21:50:01,1387,SHIPPED,Shipped,Success
+21:50:02,1388,REWORKED,Bottle QC,Cracked Bottle
+21:50:06,1388,REWORKED,Cap QC,Missing Cap
+21:50:10,1388,SHIPPED,Shipped,Success
+21:50:13,1389,REWORKED,Fill QC,Overfilled Bottle
+21:50:16,1389,REWORKED,Label QC,Missing Label
+21:50:19,1389,SHIPPED,Shipped,Success
+21:50:22,1390,REWORKED,Fill QC,Overfilled Bottle
+21:50:23,1390,REWORKED,Fill QC,Overfilled Bottle
+21:50:27,1390,REJECTED,Final QC,Contamination
+21:50:35,1391,SHIPPED,Shipped,Success
+21:50:39,1392,REWORKED,Cap QC,Loose Cap
+21:50:43,1392,SHIPPED,Shipped,Success
+21:50:50,1393,SHIPPED,Shipped,Success
+21:50:57,1394,SHIPPED,Shipped,Success
+21:51:04,1395,SHIPPED,Shipped,Success
+21:51:11,1396,SHIPPED,Shipped,Success
+21:51:14,1397,REWORKED,Fill QC,Underfilled Bottle
+21:51:19,1397,SHIPPED,Shipped,Success
+21:51:23,1398,REWORKED,Cap QC,Loose Cap
+21:51:27,1398,SHIPPED,Shipped,Success
+21:51:35,1399,SHIPPED,Shipped,Success
+21:51:42,1400,SHIPPED,Shipped,Success
+21:51:49,1401,SHIPPED,Shipped,Success
+21:51:56,1402,SHIPPED,Shipped,Success
+21:52:03,1403,SHIPPED,Shipped,Success
+21:52:10,1404,SHIPPED,Shipped,Success
+21:52:15,1405,REWORKED,Label QC,Missing Label
+21:52:18,1405,SHIPPED,Shipped,Success
+21:52:25,1406,SHIPPED,Shipped,Success
+21:52:32,1407,SHIPPED,Shipped,Success
+21:52:34,1408,REWORKED,Bottle QC,Deformed Bottle
+21:52:40,1408,SHIPPED,Shipped,Success
+21:52:47,1409,SHIPPED,Shipped,Success
+21:52:49,1410,REWORKED,Bottle QC,Deformed Bottle
+21:52:54,1410,REWORKED,Label QC,Missing Label
+21:52:56,1410,REJECTED,Final QC,Overall Product Failure
+21:52:57,1411,REWORKED,Bottle QC,Cracked Bottle
+21:53:04,1411,SHIPPED,Shipped,Success
+21:53:08,1412,REWORKED,Cap QC,Missing Cap
+21:53:12,1412,SHIPPED,Shipped,Success
+21:53:19,1413,SHIPPED,Shipped,Success
+21:53:26,1414,SHIPPED,Shipped,Success
+21:53:30,1415,REWORKED,Cap QC,Missing Cap
+21:53:35,1415,SHIPPED,Shipped,Success

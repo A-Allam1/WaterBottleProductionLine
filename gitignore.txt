@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local telemetry files
+telemetry_state.json
+telemetry_state.json.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Docker volumes / local data
+influx-data/
+grafana-data/
